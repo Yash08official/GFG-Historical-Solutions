@@ -4,17 +4,17 @@ A permanent, independently verified archive of my complete problem-solving journ
 
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-yashwasankar008-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yashwasankar008?tab=overview)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Yash08official-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash08official)
-[![Solved Problems](https://img.shields.io/badge/Total%20Solved-595-brightgreen?style=for-the-badge)](./INDEX.md)
+[![Solved Problems](https://img.shields.io/badge/Total%20Solved-597-brightgreen?style=for-the-badge)](./INDEX.md)
 [![Audit Status](https://img.shields.io/badge/Audit%20Status-PASS%20%28100%25%29-success?style=for-the-badge)](./metadata/FINAL_AUDIT_REPORT.md)
 
 ---
 
 ## 📌 Overview
 
-This repository maintains an organized and verified archive of all **595 problems** I have solved on GeeksforGeeks. It brings together my historical problem catalog, metadata, official challenge solutions, and verified integrity hashes into a unified, permanent record.
+This repository maintains an organized and verified archive of all **597 problems** I have solved on GeeksforGeeks. It brings together my historical problem catalog, metadata, official challenge solutions, and verified integrity hashes into a unified, permanent record.
 
-- **Total Solved Problems:** **595** (100% verified against GFG profile data)
-- **Recovered Original Solutions:** **61 problems** (with 88 verified source files in Java and JavaScript)
+- **Total Solved Problems:** **597** (100% verified against GFG profile data)
+- **Recovered Original Solutions:** **63 problems** (with 90 verified source files in Java and JavaScript)
 - **Code Unavailable:** **534 problems** (submission source code is private on GFG and requires authenticated account access; all metadata, IDs, timestamps, and URLs are fully cataloged)
 - **Audit Verification:** Complete pre-publication audit passed with zero fabricated code and byte-for-byte SHA-256 validation.
 
@@ -25,10 +25,10 @@ This repository maintains an organized and verified archive of all **595 problem
 | Difficulty Tier | Total Problems Solved | Problems with Recovered Code | Metadata & Problem URL Preserved |
 | :--- | :---: | :---: | :---: |
 | 🔴 **Hard** | **235** | 7 | 235 (100%) |
-| 🟡 **Medium** | **209** | 25 | 209 (100%) |
+| 🟡 **Medium** | **211** | 27 | 211 (100%) |
 | 🟢 **Easy** | **106** | 25 | 106 (100%) |
 | ⚪ **Basic** | **45** | 4 | 45 (100%) |
-| **Total** | **595** | **61** | **595 (100%)** |
+| **Total** | **597** | **63** | **597 (100%)** |
 
 ---
 
@@ -52,10 +52,10 @@ GFG-Historical-Solutions/
 │       ├── README.md              # Problem description, constraints & metadata
 │       └── Solution.java / .js    # Original accepted solution code
 ├── Easy/                          # 25 recovered Easy problem folders
-├── Medium/                        # 25 recovered Medium problem folders
+├── Medium/                        # 27 recovered Medium problem folders
 ├── Hard/                          # 7 recovered Hard problem folders
 └── metadata/                      # Comprehensive export metadata & audit records
-    ├── solved_problems.csv        # 595 unique problem records in CSV
+    ├── solved_problems.csv        # 597 unique problem records in CSV
     ├── solved_problems.json       # Complete structured JSON dataset
     ├── unavailable_problems.csv   # 534 problems cataloged with availability reason
     ├── solution_mapping.csv       # Audit mapping table with SHA-256 hashes
@@ -69,14 +69,14 @@ GFG-Historical-Solutions/
 
 1. **Zero Fabrication**: No solutions, problem statements, or submission timestamps have been generated or faked.
 2. **Byte-for-Byte Preservation**: All 88 recovered source code files were copied directly from original challenge work and verified with SHA-256 hashes.
-3. **Strict Deduplication**: All 595 Problem IDs and slugs were verified unique with zero duplicate entries.
+3. **Strict Deduplication**: All 597 Problem IDs and slugs were verified unique with zero duplicate entries.
 4. **Transparent Audit**: Full details of endpoint discovery, data retrieval methods, and limitation handling are preserved in [`metadata/FINAL_AUDIT_REPORT.md`](./metadata/FINAL_AUDIT_REPORT.md).
 
 ---
 
 ## 🔗 Quick Links
 
-- 📋 [**Full 595 Problem Index**](./INDEX.md)
+- 📋 [**Full 597 Problem Index**](./INDEX.md)
 - 📊 [**Solved Problems CSV**](./metadata/solved_problems.csv)
 - 📜 [**Pre-Publication Audit Report**](./metadata/FINAL_AUDIT_REPORT.md)
 - 🔍 [**GeeksforGeeks Profile**](https://www.geeksforgeeks.org/profile/yashwasankar008?tab=overview)

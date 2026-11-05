@@ -1,5 +1,5 @@
 {
-  "total_count": 595,
+  "total_count": 597,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8034,6 +8034,41 @@
         "7f44cc9dc6cad6715e71045bcbcc8618daf7730e2c23b44b554d599a4c03c519",
         "f53c5ef1451bfa6f32adb601930335415a850718b35fa3eb942975627d9afb04"
       ]
+    },
+    {
+      "problem_id": "703950",
+      "title": "XOR of All Subarray XORs",
+      "slug": "game-of-xor1541",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-05 20:33:23",
+      "official_url": "https://www.geeksforgeeks.org/problems/game-of-xor1541/1",
+      "topic_tags": "Mathematics, Bit Magic",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/game-of-xor1541/Solution.java"
+      ],
+      "solution_sha256": [
+        "d5e52b337a9cd07d36a4312d55173e17fbe0e28fb56db7a1780463cdd4c1a858"
+      ]
+    },
+    {
+      "problem_id": "713590",
+      "title": "Minimum Days",
+      "slug": "minimum-days--170646",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-05 20:31:55",
+      "official_url": "https://www.geeksforgeeks.org/problems/minimum-days--170646/1",
+      "topic_tags": "Strings, Permutation",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/minimum-days--170646/Solution.java"
+      ],
+      "solution_sha256": [
+        "79157ae99a63b1086198a43f7801b4dd9ffd69763ae497472a14976b85b46643"
+      ]
     }
-  ]
+  ],
+  "last_updated": "2026-11-05T21:18:00+05:30"
 }
