@@ -1,0 +1,96 @@
+# Quick Sort on Linked List
+
+**Difficulty:** `Medium`  
+**Official GFG Problem URL:** [https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)  
+**Problem ID:** `700124`  
+**Slug:** `quick-sort-on-linked-list`  
+**Accepted Submission Date:** `2024-10-29 20:16:52`  
+**Challenge Origin:** `Day_47` from GeekStreak 2024  
+
+---
+
+## Problem Statement
+
+You are given a Linked List. Sort the given Linked List using quicksort.
+
+Examples:
+
+```bash
+Input: Linked list: 1->6->2
+Output: 1->2->6
+
+Explanation:
+After sorting the nodes, we have 1, 2 and 6.
+```
+
+```bash
+Input: Linked list: 1->9->3->8
+Output: 1->3->8->9
+
+Explanation:
+After sorting the nodes, we have 1, 3, 8 and 9.
+```
+
+Constraints:
+1<= size of linked list <= 105
+
+### Solution
+
+#### Java
+
+```java
+class GfG {
+    // Function to start the QuickSort process on a linked list.
+    public static Node quickSort(Node node) {
+        myquickSort(node, null);  // Call recursive quicksort on the entire list
+        return node;  // Return the sorted list
+    }
+
+    // Recursive function to apply quicksort on a linked list.
+    static void myquickSort(Node start, Node end) {
+        // Base case: If the starting node is null or only one node is left
+        if (start == null || start == end) return;
+
+        // Partition the list around a pivot and get the pivot position
+        Node pivot = partition(start, end);
+        
+        // Recursively sort the list before the pivot and after the pivot
+        myquickSort(start, pivot);
+        myquickSort(pivot.next, end);
+    }
+
+    // Function to partition the list around a pivot
+    static Node partition(Node start, Node end) {
+        Node pivot = start;  // Choose the start node as pivot
+        Node left = start;  // Left boundary for swapping nodes
+        
+        // Traverse the list until the end, rearranging nodes around the pivot
+        for (Node j = start; j != end; j = j.next) {
+            // If the current node's data is less than pivot data
+            if (j.data < pivot.data) {
+                // Swap the node after 'left' with 'j' to keep it on the left side
+                swap(left.next, j);
+                left = left.next;  // Move the 'left' boundary one node right
+            }
+        }
+        
+        // Place the pivot in its correct position by swapping with 'left'
+        swap(left, pivot);
+        
+        return left;  // Return the position of the pivot after partition
+    }
+
+    // Utility function to swap data between two nodes
+    static void swap(Node a, Node b) {
+        int temp = a.data;
+        a.data = b.data;
+        b.data = temp;
+    }
+}
+```
+
+---
+
+## Recovered Solution Files
+
+- **[Solution.java](./Solution.java)** (Java) - `SHA-256: edf6941009937905b9011a63ec4aa35d39e162ee3f462dc98a69b807a9b1ff61`
