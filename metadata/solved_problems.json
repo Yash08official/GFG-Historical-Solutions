@@ -1,5 +1,5 @@
 {
-  "total_count": 597,
+  "total_count": 600,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -19,7 +19,7 @@
     },
     {
       "problem_id": "704532",
-      "title": "Stock Buy and Sell – Max K Transactions Allowed",
+      "title": "Stock Buy and Sell \u2013 Max K Transactions Allowed",
       "slug": "maximum-profit4657",
       "difficulty": "Hard",
       "language": "java",
@@ -32,7 +32,7 @@
     },
     {
       "problem_id": "709515",
-      "title": "Stock Buy and Sell – Max 2 Transactions Allowed",
+      "title": "Stock Buy and Sell \u2013 Max 2 Transactions Allowed",
       "slug": "buy-and-sell-a-share-at-most-twice",
       "difficulty": "Hard",
       "language": "java",
@@ -4036,7 +4036,7 @@
     },
     {
       "problem_id": "875839",
-      "title": "4 Sum – Count Quadruplets with Sum",
+      "title": "4 Sum \u2013 Count Quadruplets with Sum",
       "slug": "count-quadruplets-with-given-sum",
       "difficulty": "Medium",
       "language": "cpp",
@@ -4894,7 +4894,7 @@
     },
     {
       "problem_id": "702074",
-      "title": "Stock Buy and Sell – Multiple Transaction Allowed",
+      "title": "Stock Buy and Sell \u2013 Multiple Transaction Allowed",
       "slug": "stock-buy-and-sell2615",
       "difficulty": "Medium",
       "language": "java",
@@ -6864,7 +6864,7 @@
     },
     {
       "problem_id": "712197",
-      "title": "Stock Buy and Sell – Max one Transaction Allowed",
+      "title": "Stock Buy and Sell \u2013 Max one Transaction Allowed",
       "slug": "buy-stock-2",
       "difficulty": "Easy",
       "language": "java",
@@ -8068,7 +8068,58 @@
       "solution_sha256": [
         "79157ae99a63b1086198a43f7801b4dd9ffd69763ae497472a14976b85b46643"
       ]
+    },
+    {
+      "problem_id": "700219",
+      "title": "Undirected Graph Cycle",
+      "slug": "detect-cycle-in-an-undirected-graph",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-05 21:48:33",
+      "official_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+      "topic_tags": "DFS, Graph, union-find",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/detect-cycle-in-an-undirected-graph/Solution.java"
+      ],
+      "solution_sha256": [
+        "655997aa38de1f45dd3426e93a4a1d6b359000a9228a7757865ac8cb8557b20d"
+      ]
+    },
+    {
+      "problem_id": "701368",
+      "title": "Minimum Platforms",
+      "slug": "minimum-platforms-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-05 21:49:20",
+      "official_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+      "topic_tags": "Arrays, Greedy, Sorting, Binary Search",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/minimum-platforms-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "6a6244625928a6bcc8fff28f86077129e87599cba1e2b180042b6eabcbcc183a"
+      ]
+    },
+    {
+      "problem_id": "704213",
+      "title": "Count Subsets with Sum",
+      "slug": "perfect-sum-problem5633",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-05 21:50:07",
+      "official_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
+      "topic_tags": "Dynamic Programming",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/perfect-sum-problem5633/Solution.java"
+      ],
+      "solution_sha256": [
+        "f0a12bc560cdf79ad1f249ec960043199fd934a7c9e352d9f2efdea1afb6dfac"
+      ]
     }
   ],
-  "last_updated": "2026-11-05T21:18:00+05:30"
+  "last_updated": "2026-11-05 21:55:00"
 }
