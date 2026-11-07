@@ -1,5 +1,5 @@
 {
-  "total_count": 601,
+  "total_count": 604,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8136,7 +8136,58 @@
       "solution_sha256": [
         "86bd47996b4aacde088932fbef56c7a41769c846402d324ca30d759c466fa6a2"
       ]
+    },
+    {
+      "problem_id": "881608",
+      "title": "Generate Usernames",
+      "slug": "new-registration-system--150419",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-07 10:30:16",
+      "official_url": "https://www.geeksforgeeks.org/problems/new-registration-system--150419/1",
+      "topic_tags": "Strings",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Easy/new-registration-system--150419/Solution.java"
+      ],
+      "solution_sha256": [
+        "3c4ad0777b431d2ee41323e3547c78bf2aed7a02fbd8b01716d5a3a1fc43caf5"
+      ]
+    },
+    {
+      "problem_id": "700218",
+      "title": "Directed Graph Cycle",
+      "slug": "detect-cycle-in-a-directed-graph",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-07 10:32:57",
+      "official_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+      "topic_tags": "Graph",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/detect-cycle-in-a-directed-graph/Solution.java"
+      ],
+      "solution_sha256": [
+        "2aed9365221c803b3f76385089e09a4bc1b84b75b7f2ad3ec1eecb3b5483baa6"
+      ]
+    },
+    {
+      "problem_id": "701362",
+      "title": "Activity Selection",
+      "slug": "activity-selection-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-07 10:33:43",
+      "official_url": "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1",
+      "topic_tags": "Greedy, Heap",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/activity-selection-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "878224432fa14771b1e28a0734a9f74a12ae22abb980167668ca1ad41080b5a0"
+      ]
     }
   ],
-  "last_updated": "2026-11-06 10:28:00"
+  "last_updated": "2026-11-07 10:40:00"
 }
