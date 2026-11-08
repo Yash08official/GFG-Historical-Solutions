@@ -1,5 +1,5 @@
 {
-  "total_count": 604,
+  "total_count": 605,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8187,7 +8187,24 @@
       "solution_sha256": [
         "878224432fa14771b1e28a0734a9f74a12ae22abb980167668ca1ad41080b5a0"
       ]
+    },
+    {
+      "problem_id": "704889",
+      "title": "Minimum Time with 2 Scanners",
+      "slug": "find-the-minimum-time0253",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-08 11:46:28",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1",
+      "topic_tags": "Mathematics, Binary Search",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Easy/find-the-minimum-time0253/Solution.java"
+      ],
+      "solution_sha256": [
+        "99a4791344af3d86f049396c03b6601d877bae9d73454f775449a7a8908f2245"
+      ]
     }
   ],
-  "last_updated": "2026-11-07 10:40:00"
+  "last_updated": "2026-11-08 14:15:00"
 }
