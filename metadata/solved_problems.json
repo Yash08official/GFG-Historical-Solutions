@@ -1,5 +1,5 @@
 {
-  "total_count": 606,
+  "total_count": 622,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8221,7 +8221,279 @@
       "solution_sha256": [
         "b4e0f12be9d6adc11773718095d15279816334df68fb7d7785a61c8699751800"
       ]
+    },
+    {
+      "problem_id": "701235",
+      "title": "Union of 2 Sorted Arrays",
+      "slug": "union-of-two-sorted-arrays-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:28:22",
+      "official_url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+      "topic_tags": "Arrays, two-pointer-algorithm",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/union-of-two-sorted-arrays-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "c784bd48f3193da8f703d4b05acd11452224a8cd0aa2238d8a27f665516a7461"
+      ]
+    },
+    {
+      "problem_id": "703284",
+      "title": "Pairs with 0 Sum",
+      "slug": "count-pairs-with-given-sum5022",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:29:19",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+      "topic_tags": "Arrays, Sorting, two-pointer-algorithm",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/count-pairs-with-given-sum5022/Solution.java"
+      ],
+      "solution_sha256": [
+        "b54f0fd33e074af99f077460ef8baaa30f6a564271d97ed2c535b0082dc3ea92"
+      ]
+    },
+    {
+      "problem_id": "700254",
+      "title": "Largest Subarray with 0 Sum",
+      "slug": "largest-subarray-with-0-sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:30:14",
+      "official_url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+      "topic_tags": "Arrays, Hash",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/largest-subarray-with-0-sum/Solution.java"
+      ],
+      "solution_sha256": [
+        "8f8d50dac85ba4d496058aacd04c34b976531bd92209de9d9eadac4de4d025a0"
+      ]
+    },
+    {
+      "problem_id": "700490",
+      "title": "Top View of Binary Tree",
+      "slug": "top-view-of-binary-tree",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:31:12",
+      "official_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+      "topic_tags": "Tree",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/top-view-of-binary-tree/Solution.java"
+      ],
+      "solution_sha256": [
+        "e89776f056af90d392eff8f570268f75ea05dc66732e6e068abefc1299346d22"
+      ]
+    },
+    {
+      "problem_id": "702950",
+      "title": "Row with Max 1s in Rowwise Sorted",
+      "slug": "row-with-max-1s0023",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:32:13",
+      "official_url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+      "topic_tags": "Matrix",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/row-with-max-1s0023/Solution.java"
+      ],
+      "solution_sha256": [
+        "35f91be97f20d77fb7ef5b3155555b57b77d426bcdf19fb1cfb4d566793841b6"
+      ]
+    },
+    {
+      "problem_id": "700408",
+      "title": "Rat in Maze",
+      "slug": "rat-in-a-maze-problem",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:33:17",
+      "official_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+      "topic_tags": "Backtracking",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/rat-in-a-maze-problem/Solution.java"
+      ],
+      "solution_sha256": [
+        "075c25d8e4d6590daec1508263939e2662bb617dd05a055180bf965c4a197d53"
+      ]
+    },
+    {
+      "problem_id": "700688",
+      "title": "Zig-Zag Tree Traversal",
+      "slug": "zigzag-tree-traversal",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:34:11",
+      "official_url": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+      "topic_tags": "Traversal, Tree",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/zigzag-tree-traversal/Solution.java"
+      ],
+      "solution_sha256": [
+        "ac8a8c0505b154733655faa57389d718ca41b3d4ec97ca478b809361d1d1b955"
+      ]
+    },
+    {
+      "problem_id": "701367",
+      "title": "Job Sequencing Problem",
+      "slug": "job-sequencing-problem-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:36:36",
+      "official_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+      "topic_tags": "Greedy, Disjoint Set",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/job-sequencing-problem-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "c21525743686f959e9b214deb181ff7e5b29c3e5b4bc77430bd50bf18223b299"
+      ]
+    },
+    {
+      "problem_id": "700253",
+      "title": "Celebrity Problem",
+      "slug": "the-celebrity-problem",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:37:46",
+      "official_url": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+      "topic_tags": "Arrays, Stack, two-pointer-algorithm",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/the-celebrity-problem/Solution.java"
+      ],
+      "solution_sha256": [
+        "8fe3399303409b296fe0b154b8dd00932eda86eaad1f1ce3c8124844f9aafba4"
+      ]
+    },
+    {
+      "problem_id": "701209",
+      "title": "Maximum Index",
+      "slug": "maximum-index-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:38:36",
+      "official_url": "https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1",
+      "topic_tags": "Arrays, two-pointer-algorithm",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/maximum-index-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "3da33ecf90e9b152ef193043784c3b3ebc0306aab0d206a524dbb57ff74a50c8"
+      ]
+    },
+    {
+      "problem_id": "703063",
+      "title": "Minimum Bracket Reversals to Balance",
+      "slug": "count-the-reversals0401",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:40:34",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-the-reversals0401/1",
+      "topic_tags": "Strings, Stack",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/count-the-reversals0401/Solution.java"
+      ],
+      "solution_sha256": [
+        "55db108d91e6b9afb9eaa578a4bf5185f7b19cba6afbc5383eba75e0f7c064d1"
+      ]
+    },
+    {
+      "problem_id": "700053",
+      "title": "Add 1 to a Linked List Number",
+      "slug": "add-1-to-a-number-represented-as-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:41:56",
+      "official_url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+      "topic_tags": "Linked List",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/add-1-to-a-number-represented-as-linked-list/Solution.java"
+      ],
+      "solution_sha256": [
+        "29a6d61f46ce6be46bcf97ad72c4441ceeb276701f16f5d0dc023542d50fffa3"
+      ]
+    },
+    {
+      "problem_id": "700255",
+      "title": "Topological Sort",
+      "slug": "topological-sort",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:43:16",
+      "official_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+      "topic_tags": "Graph, Topological Sort",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/topological-sort/Solution.java"
+      ],
+      "solution_sha256": [
+        "ab2b6fe103f44869f34bbec3fe17e88619a16bcf5240a5d5d3ece2c518694fae"
+      ]
+    },
+    {
+      "problem_id": "703459",
+      "title": "First and Last in Sorted",
+      "slug": "first-and-last-occurrences-of-x3116",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:44:09",
+      "official_url": "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
+      "topic_tags": "Arrays, Binary Search",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/first-and-last-occurrences-of-x3116/Solution.java"
+      ],
+      "solution_sha256": [
+        "61336b13f898e1f6a8e35a53d8f4037c1b789c1bcb5a75437c74e20731d4e233"
+      ]
+    },
+    {
+      "problem_id": "700466",
+      "title": "Check Triplet With 0 Sum",
+      "slug": "find-triplets-with-zero-sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:45:27",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+      "topic_tags": "two-pointer-algorithm, Arrays, Searching, Hash, Sorting",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/find-triplets-with-zero-sum/Solution.java"
+      ],
+      "solution_sha256": [
+        "86a61677161283d58e67892892d285404a37a44fa9d36f72dea00a04c0c55ceb"
+      ]
+    },
+    {
+      "problem_id": "703201",
+      "title": "Longest Common Substring",
+      "slug": "longest-common-substring1452",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-09 17:47:05",
+      "official_url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
+      "topic_tags": "Strings, Dynamic Programming",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Medium/longest-common-substring1452/Solution.java"
+      ],
+      "solution_sha256": [
+        "b77976463ca5944b2318b0566bfe8c47ba5816ac3c8019900f188defedfa7259"
+      ]
     }
   ],
-  "last_updated": "2026-11-09 10:31:00"
+  "last_updated": "2026-11-10 09:15:00"
 }
