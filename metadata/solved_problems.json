@@ -1,5 +1,5 @@
 {
-  "total_count": 622,
+  "total_count": 623,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8493,7 +8493,24 @@
       "solution_sha256": [
         "b77976463ca5944b2318b0566bfe8c47ba5816ac3c8019900f188defedfa7259"
       ]
+    },
+    {
+      "problem_id": "703319",
+      "title": "At Least K Occurrences",
+      "slug": "first-element-to-occur-k-times5150",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-10 09:17:50",
+      "official_url": "https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1",
+      "topic_tags": "Arrays, Hash",
+      "code_status": "Available (Original Accepted Solution)",
+      "solution_files": [
+        "Easy/first-element-to-occur-k-times5150/Solution.java"
+      ],
+      "solution_sha256": [
+        "089151027f72743badcad7d9a79fed287bf40718391080899f8d97f86a068395"
+      ]
     }
   ],
-  "last_updated": "2026-11-10 09:15:00"
+  "last_updated": "2026-11-10 09:22:00"
 }
