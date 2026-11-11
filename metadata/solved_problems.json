@@ -6937,15 +6937,17 @@
       "slug": "kth-distance3757",
       "difficulty": "Easy",
       "language": "java",
-      "submission_timestamp": "2024-11-02 13:24:02",
+      "submission_timestamp": "2026-11-11 10:13:21",
       "official_url": "https://www.geeksforgeeks.org/problems/kth-distance3757/1",
       "topic_tags": "",
       "code_status": "Available (Recovered from Local Challenge)",
       "solution_files": [
-        "Easy/kth-distance3757/Solution.java"
+        "Easy/kth-distance3757/Solution.java",
+        "Easy/kth-distance3757/solution2.java"
       ],
       "solution_sha256": [
-        "c4ebdbd10e208634becb27e502e727ff6ef1f2408bee9e53119cb698d79e4e95"
+        "c4ebdbd10e208634becb27e502e727ff6ef1f2408bee9e53119cb698d79e4e95",
+        "b67a0b265a3493d340d407ceed77c6a919324c1fdec907d40a8aa08779c56975"
       ]
     },
     {

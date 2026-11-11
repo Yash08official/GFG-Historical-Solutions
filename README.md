@@ -14,7 +14,7 @@ A permanent, independently verified archive of my complete problem-solving journ
 This repository maintains an organized and verified archive of all **623 problems** I have solved on GeeksforGeeks. It brings together my historical problem catalog, metadata, official challenge solutions, and verified integrity hashes into a unified, permanent record.
 
 - **Total Solved Problems:** **623** (100% verified against GFG profile data)
-- **Recovered Original Solutions:** **89 problems** (with 116 verified source files in Java and JavaScript)
+- **Recovered Original Solutions:** **89 problems** (with 117 verified source files in Java and JavaScript)
 - **Code Unavailable:** **534 problems** (submission source code is private on GFG and requires authenticated account access; all metadata, IDs, timestamps, and URLs are fully cataloged)
 - **Audit Verification:** Complete pre-publication audit passed with zero fabricated code and byte-for-byte SHA-256 validation.
 
@@ -68,7 +68,7 @@ GFG-Historical-Solutions/
 ## 🔍 Data Collection & Integrity Guarantee
 
 1. **Zero Fabrication**: No solutions, problem statements, or submission timestamps have been generated or faked.
-2. **Byte-for-Byte Preservation**: All 116 recovered source code files were copied directly from original challenge work and verified with SHA-256 hashes.
+2. **Byte-for-Byte Preservation**: All 117 recovered source code files were preserved directly from original submissions and verified with SHA-256 hashes.
 3. **Strict Deduplication**: All 623 Problem IDs and slugs were verified unique with zero duplicate entries.
 4. **Transparent Audit**: Full details of endpoint discovery, data retrieval methods, and limitation handling are preserved in [`metadata/FINAL_AUDIT_REPORT.md`](./metadata/FINAL_AUDIT_REPORT.md).
 
