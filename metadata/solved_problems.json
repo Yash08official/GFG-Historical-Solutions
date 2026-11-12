@@ -8512,6 +8512,125 @@
       "solution_sha256": [
         "089151027f72743badcad7d9a79fed287bf40718391080899f8d97f86a068395"
       ]
+    },
+    {
+      "problem_id": "700423",
+      "title": "Closest in BST",
+      "slug": "find-the-closest-element-in-bst",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:38:03",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-the-closest-element-in-bst/Solution.java"
+      ],
+      "solution_sha256": [
+        "490c757c45f9e5b3bf7226f3a9e6db3bbf06b22667f4d378f00fbecc5a22cdf6"
+      ]
+    },
+    {
+      "problem_id": "703219",
+      "title": "Longest Substring with K Uniques",
+      "slug": "longest-k-unique-characters-substring0853",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:39:26",
+      "official_url": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/longest-k-unique-characters-substring0853/Solution.java"
+      ],
+      "solution_sha256": [
+        "d7905a6dfaac780392bf58f227c1de50dd67375e55e9ce7ef82d91eb43d6c460"
+      ]
+    },
+    {
+      "problem_id": "700334",
+      "title": "Dijkstra Algorithm",
+      "slug": "implementing-dijkstra-set-1-adjacency-matrix",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:40:19",
+      "official_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/implementing-dijkstra-set-1-adjacency-matrix/Solution.java"
+      ],
+      "solution_sha256": [
+        "35182a2d42c754fb3547fc64907c1da42221cc146bbda8dff677c42cbd775ceb"
+      ]
+    },
+    {
+      "problem_id": "700620",
+      "title": "Cycle Length in Linked List",
+      "slug": "find-length-of-loop",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:41:10",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-length-of-loop/Solution.java"
+      ],
+      "solution_sha256": [
+        "d3d7bb99458ba3442e0a9939e616d10cfeade1905c9ac0597b8904df505b7e24"
+      ]
+    },
+    {
+      "problem_id": "700325",
+      "title": "Validate IP Address",
+      "slug": "validate-an-ip-address-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:42:04",
+      "official_url": "https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/validate-an-ip-address-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "aeb223f2064ea004a1bc8aaa714ddbea3a3d84dc63c6beb1091fd5fa9e293cef"
+      ]
+    },
+    {
+      "problem_id": "701212",
+      "title": "Stock Buy and Sell",
+      "slug": "stock-buy-and-sell-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:42:57",
+      "official_url": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/stock-buy-and-sell-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "690a6637b9d28fe2514fb05e6ba924e104172c45d4203b6e91912faf738885d6"
+      ]
+    },
+    {
+      "problem_id": "700028",
+      "title": "Sort Linked List of 0s, 1s and 2s",
+      "slug": "given-a-linked-list-of-0s-1s-and-2s-sort-it",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-12 09:43:45",
+      "official_url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/given-a-linked-list-of-0s-1s-and-2s-sort-it/Solution.java"
+      ],
+      "solution_sha256": [
+        "13a802beb4462c0eed9668cd3a62760a2c664906a4eda0e5bc3c6eae07c5928b"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
