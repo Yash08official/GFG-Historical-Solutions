@@ -8631,6 +8631,23 @@
       "solution_sha256": [
         "13a802beb4462c0eed9668cd3a62760a2c664906a4eda0e5bc3c6eae07c5928b"
       ]
+    },
+    {
+      "problem_id": "700500",
+      "title": "Common Nodes in Two BSTs",
+      "slug": "print-common-nodes-in-bst",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-13 14:42:56",
+      "official_url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/print-common-nodes-in-bst/Solution.java"
+      ],
+      "solution_sha256": [
+        "6d1bb306315cf470e0c5e4e6462a8e693451cf4f0a6921dc00dc7f6fb55d5edb"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
