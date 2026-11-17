@@ -8716,6 +8716,23 @@
       "solution_sha256": [
         "fedbf5fce78e06eb03068cf451978208d11f7b5e1152cc170c8ae8aad1c00b1d"
       ]
+    },
+    {
+      "problem_id": "712176",
+      "title": "XOR of Number Range",
+      "slug": "find-xor-of-numbers-from-l-to-r",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-18 00:19:40",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/find-xor-of-numbers-from-l-to-r/Solution.java"
+      ],
+      "solution_sha256": [
+        "691533f6678aa2f4cec114898d2ae97e79deb1241bfe158745a1834d36d01923"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
