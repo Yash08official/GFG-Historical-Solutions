@@ -8648,6 +8648,74 @@
       "solution_sha256": [
         "6d1bb306315cf470e0c5e4e6462a8e693451cf4f0a6921dc00dc7f6fb55d5edb"
       ]
+    },
+    {
+      "problem_id": "700823",
+      "title": "Repeated Pattern Check",
+      "slug": "the-pattern-matcher",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-17 21:54:18",
+      "official_url": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/the-pattern-matcher/Solution.java"
+      ],
+      "solution_sha256": [
+        "ca3ad3f8da4d60b61f736ee0dfe034e748dc45fe277146a2cee5e70f1f1e5f41"
+      ]
+    },
+    {
+      "problem_id": "903692",
+      "title": "K-th Missing in Natural Numbers",
+      "slug": "k-th-missing-element-in-natural-numbers",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-16 18:58:20",
+      "official_url": "https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/k-th-missing-element-in-natural-numbers/Solution.java"
+      ],
+      "solution_sha256": [
+        "3937d1b788ac45c6d6fd0efc697f5ffe50e27fa6758ffcccf4b64e6940a30865"
+      ]
+    },
+    {
+      "problem_id": "703079",
+      "title": "Sum of All Digit Subsequences",
+      "slug": "sum-of-all-sub-sequences-of-a-number3437",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-15 12:55:31",
+      "official_url": "https://www.geeksforgeeks.org/problems/sum-of-all-sub-sequences-of-a-number3437/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/sum-of-all-sub-sequences-of-a-number3437/Solution.java"
+      ],
+      "solution_sha256": [
+        "5d789376f07f38131555f2b9ee15ead7b2009fbea89667f22e073ec98a5a6418"
+      ]
+    },
+    {
+      "problem_id": "709993",
+      "title": "Max Equal Sum in 3 Stacks",
+      "slug": "find-maximum-equal-sum-of-three-stacks",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-14 09:08:12",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-maximum-equal-sum-of-three-stacks/Solution.java"
+      ],
+      "solution_sha256": [
+        "fedbf5fce78e06eb03068cf451978208d11f7b5e1152cc170c8ae8aad1c00b1d"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
