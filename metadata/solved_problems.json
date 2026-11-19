@@ -8733,6 +8733,23 @@
       "solution_sha256": [
         "691533f6678aa2f4cec114898d2ae97e79deb1241bfe158745a1834d36d01923"
       ]
+    },
+    {
+      "problem_id": "702996",
+      "title": "Sort in Specific Order",
+      "slug": "sort-in-specific-order2422",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-19 18:24:39",
+      "official_url": "https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/sort-in-specific-order2422/Solution.java"
+      ],
+      "solution_sha256": [
+        "d98dc27973281142029a48a8397bfb1cee0de513d970a3f4a35fd399c1359287"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
