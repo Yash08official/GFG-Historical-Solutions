@@ -8750,6 +8750,23 @@
       "solution_sha256": [
         "d98dc27973281142029a48a8397bfb1cee0de513d970a3f4a35fd399c1359287"
       ]
+    },
+    {
+      "problem_id": "703255",
+      "title": "Min Flips for Alternate",
+      "slug": "min-number-of-flips3210",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-20 10:18:35",
+      "official_url": "https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/min-number-of-flips3210/Solution.java"
+      ],
+      "solution_sha256": [
+        "4092f75499613fc23d7d5c85c8be171b7fd0bce495d773f38f84a62c7a7261ea"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
