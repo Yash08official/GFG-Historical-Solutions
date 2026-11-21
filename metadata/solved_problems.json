@@ -8767,6 +8767,23 @@
       "solution_sha256": [
         "4092f75499613fc23d7d5c85c8be171b7fd0bce495d773f38f84a62c7a7261ea"
       ]
+    },
+    {
+      "problem_id": "702894",
+      "title": "Smallest Subarray Sum Greater Than x",
+      "slug": "smallest-subarray-with-sum-greater-than-x5651",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-21 10:32:16",
+      "official_url": "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/smallest-subarray-with-sum-greater-than-x5651/Solution.java"
+      ],
+      "solution_sha256": [
+        "fe1bb09de5ac2be46cc69763ce789b3d97b10ab11fe7441ef84a5a78e83d0fbd"
+      ]
     }
   ],
   "last_updated": "2026-11-10 09:22:00"
