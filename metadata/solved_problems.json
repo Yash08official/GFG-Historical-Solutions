@@ -1,5 +1,5 @@
 {
-  "total_count": 660,
+  "total_count": 667,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9141,7 +9141,126 @@
       "solution_sha256": [
         "c19c03b71356bf0d7632899295fc6f0c79d22887111bf2cd0206b92537f82e85"
       ]
+    },
+    {
+      "problem_id": "704623",
+      "title": "Non-Crossing Handshakes in Circle",
+      "slug": "handshakes1303",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:15:59",
+      "official_url": "https://www.geeksforgeeks.org/problems/handshakes1303/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/handshakes1303/Solution.java"
+      ],
+      "solution_sha256": [
+        "1d2aa255d904d597b0ed1e936167a826cea7320347e10df885bc5f40fad5fd29"
+      ]
+    },
+    {
+      "problem_id": "704744",
+      "title": "N-Digit Numbers with Increasing Digits",
+      "slug": "n-digit-numbers-with-digits-in-increasing-order5903",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:15:14",
+      "official_url": "https://www.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/n-digit-numbers-with-digits-in-increasing-order5903/Solution.java"
+      ],
+      "solution_sha256": [
+        "116bddbf855f00d874ecb57aaf7e05ac5f1b3663a88b71df6025570a3f4b96b4"
+      ]
+    },
+    {
+      "problem_id": "912664",
+      "title": "Count Subset with Sum - Limited Size",
+      "slug": "count-the-subset-with-sum-equal-to-k",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:14:27",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-the-subset-with-sum-equal-to-k/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-the-subset-with-sum-equal-to-k/Solution.java"
+      ],
+      "solution_sha256": [
+        "ce3fbfc1f80e4b546b8cc8d62798f28b34aaef0c775ced964bc97070c114a504"
+      ]
+    },
+    {
+      "problem_id": "703687",
+      "title": "Friends Pairing Problem",
+      "slug": "friends-pairing-problem5425",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:13:33",
+      "official_url": "https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/friends-pairing-problem5425/Solution.java"
+      ],
+      "solution_sha256": [
+        "f19d8d198096441b1d5d6991ea66463d0090c75ddd526bba1f8acaa99aa5da84"
+      ]
+    },
+    {
+      "problem_id": "704723",
+      "title": "Subset Sums",
+      "slug": "subset-sums2234",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:12:52",
+      "official_url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/subset-sums2234/Solution.java"
+      ],
+      "solution_sha256": [
+        "4573ced18a0f26f5eec69df6d064d004bc3505673d93c68371ad865978887a0f"
+      ]
+    },
+    {
+      "problem_id": "701190",
+      "title": "Tower Of Hanoi",
+      "slug": "tower-of-hanoi-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 01:11:59",
+      "official_url": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/tower-of-hanoi-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "685b8d676b217f49cd9489df408fb749e3a86c4246e72cb086c7600f34e61a79"
+      ]
+    },
+    {
+      "problem_id": "705694",
+      "title": "Character at Position in Infinite String",
+      "slug": "the-infinite-string1049",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-23 00:51:05",
+      "official_url": "https://www.geeksforgeeks.org/problems/the-infinite-string1049/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/the-infinite-string1049/Solution.java"
+      ],
+      "solution_sha256": [
+        "f2a7c127bd0df9bb22bcd2fca585c9914259d7f082bb4d15cdb4386b79d63093"
+      ]
     }
   ],
-  "last_updated": "2026-11-22 20:41:11"
+  "last_updated": "2026-11-23 01:15:59"
 }
