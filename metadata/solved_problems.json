@@ -1,5 +1,5 @@
 {
-  "total_count": 623,
+  "total_count": 649,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8784,7 +8784,177 @@
       "solution_sha256": [
         "fe1bb09de5ac2be46cc69763ce789b3d97b10ab11fe7441ef84a5a78e83d0fbd"
       ]
+    },
+    {
+      "problem_id": "700179",
+      "title": "Sum Tree",
+      "slug": "sum-tree",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:28:32",
+      "official_url": "https://www.geeksforgeeks.org/problems/sum-tree/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/sum-tree/Solution.java"
+      ],
+      "solution_sha256": [
+        "65c3ecf326d1c708bc9005f2c7c0e9c8c64c1594b7f9d6fa142ac062aa36e54f"
+      ]
+    },
+    {
+      "problem_id": "701357",
+      "title": "Min Cost to Connect Ropes",
+      "slug": "minimum-cost-of-ropes-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:27:16",
+      "official_url": "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/minimum-cost-of-ropes-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "32370c0011f0bff3040fa22a3e916639235097b662fc4e76668c889b070902cc"
+      ]
+    },
+    {
+      "problem_id": "700150",
+      "title": "Merge Sort",
+      "slug": "merge-sort",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:26:33",
+      "official_url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/merge-sort/Solution.java"
+      ],
+      "solution_sha256": [
+        "f1d40bcbb79511f6fbc29ce252faeb66e62143f20284ffd72c93e5e6907885b8"
+      ]
+    },
+    {
+      "problem_id": "701205",
+      "title": "Rearrange Array Alternately",
+      "slug": "-rearrange-array-alternately-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:25:46",
+      "official_url": "https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/-rearrange-array-alternately-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "5fdb0303ef4759db7c7a14236a3c85b53f8142909348e9ac482888ed207fdffc"
+      ]
+    },
+    {
+      "problem_id": "701198",
+      "title": "Wave Array",
+      "slug": "wave-array-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:24:52",
+      "official_url": "https://www.geeksforgeeks.org/problems/wave-array-1587115621/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/wave-array-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "d2d6a14d68aba605228c75d3aaa0fd067e1ce46b929c961a03b79bcb8c5dd63f"
+      ]
+    },
+    {
+      "problem_id": "706218",
+      "title": "Bellman Ford",
+      "slug": "distance-from-the-source-bellman-ford-algorithm",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:23:58",
+      "official_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/distance-from-the-source-bellman-ford-algorithm/Solution.java"
+      ],
+      "solution_sha256": [
+        "9e090488aece2a0d8a4f6add2bb51c338be161cc2f5409e8a6bbeaedd06f87b8"
+      ]
+    },
+    {
+      "problem_id": "930921",
+      "title": "High-Rated and Expensive Products",
+      "slug": "high-rated-and-expensive-products--160106",
+      "difficulty": "Medium",
+      "language": "pandas",
+      "submission_timestamp": "2026-11-22 19:22:41",
+      "official_url": "https://www.geeksforgeeks.org/problems/high-rated-and-expensive-products--160106/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/high-rated-and-expensive-products--160106/Solution.py"
+      ],
+      "solution_sha256": [
+        "ac8f78b0b7584673698b3a20803cd1add38bae3595420e4d1b95d00fb2c37078"
+      ]
+    },
+    {
+      "problem_id": "930926",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary--162253",
+      "difficulty": "Medium",
+      "language": "pandas",
+      "submission_timestamp": "2026-11-22 19:21:35",
+      "official_url": "https://www.geeksforgeeks.org/problems/second-highest-salary--162253/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/second-highest-salary--162253/Solution.py"
+      ],
+      "solution_sha256": [
+        "71efdf0210520a13c5e4c4303e647dc53b2926ae7554bce622bee700a8dfcb41"
+      ]
+    },
+    {
+      "problem_id": "930960",
+      "title": "Calculate Discount for Products",
+      "slug": "calculate-discount-for-products--173345",
+      "difficulty": "Medium",
+      "language": "pandas",
+      "submission_timestamp": "2026-11-22 19:20:18",
+      "official_url": "https://www.geeksforgeeks.org/problems/calculate-discount-for-products--173345/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/calculate-discount-for-products--173345/Solution.py"
+      ],
+      "solution_sha256": [
+        "40b04eb19862b274a6a5751c731a0a47a1d5ef479d03b2a3717862d4d9cb85cf"
+      ]
+    },
+    {
+      "problem_id": "935230",
+      "title": "Range Vowel Count Queries Static",
+      "slug": "range-vowel-count-queries-static",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 19:19:01",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-vowel-count-queries-static/Solution.java"
+      ],
+      "solution_sha256": [
+        "a1b6f3b9051de48479a83316f5876915f200d9cb0c74ae0144c9325b7def1565"
+      ]
     }
   ],
-  "last_updated": "2026-11-10 09:22:00"
+  "last_updated": "2026-11-22 19:28:32"
 }
