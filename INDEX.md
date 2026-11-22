@@ -1,16 +1,16 @@
-# GeeksforGeeks Master Problem Index (649 Solved Problems)
+# GeeksforGeeks Master Problem Index (660 Solved Problems)
 
-This master index catalogs all **649 problems** solved on [GeeksforGeeks](https://www.geeksforgeeks.org/profile/yashwasankar008?tab=overview) by [Yash Wasankar (yashwasankar008)](https://github.com/Yash08official).
+This master index catalogs all **660 problems** solved on [GeeksforGeeks](https://www.geeksforgeeks.org/profile/yashwasankar008?tab=overview) by [Yash Wasankar (yashwasankar008)](https://github.com/Yash08official).
 
-- **Total Solved:** 649 problems
-- **Recovered Original Code:** 115 problems (detailed problem directories with original solution code)
+- **Total Solved:** 660 problems
+- **Recovered Original Code:** 126 problems (detailed problem directories with original solution code)
 - **Code Unavailable:** 534 problems (authenticated access required on GFG; full metadata & problem statements preserved)
 
 ---
 
 ## Table of Contents
 - [Hard Problems (235)](#hard-problems-235)
-- [Medium Problems (253)](#medium-problems-253)
+- [Medium Problems (264)](#medium-problems-264)
 - [Easy Problems (116)](#easy-problems-116)
 - [Basic Problems (45)](#basic-problems-45)
 
@@ -256,263 +256,274 @@ This master index catalogs all **649 problems** solved on [GeeksforGeeks](https:
 | 234 | `705195` | **Longest Valid Parentheses Substring** | `JAVASCRIPT` | `2024-09-16` | [Available (2 files)](./Hard/longest-valid-parentheses5657/) | [View on GFG](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1) |
 | 235 | `700144` | **Binary Tree  to DLL** | `JAVASCRIPT` | `2024-09-15` | [Available (2 files)](./Hard/binary-tree-to-dll/) | [View on GFG](https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1) |
 
-## Medium Problems (253)
+## Medium Problems (264)
 
 | # | Problem ID | Problem Title | Accepted Lang | Submission Date | Code Archive Status | GFG Link |
 | :-: | :-: | :--- | :---: | :---: | :---: | :---: |
-| 1 | `700179` | **Sum Tree** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/sum-tree/) | [View on GFG](https://www.geeksforgeeks.org/problems/sum-tree/1) |
-| 2 | `701357` | **Min Cost to Connect Ropes** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/minimum-cost-of-ropes-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) |
-| 3 | `700150` | **Merge Sort** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/merge-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/merge-sort/1) |
-| 4 | `701205` | **Rearrange Array Alternately** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/-rearrange-array-alternately-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) |
-| 5 | `701198` | **Wave Array** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/wave-array-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1) |
-| 6 | `706218` | **Bellman Ford** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/distance-from-the-source-bellman-ford-algorithm/) | [View on GFG](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) |
-| 7 | `930921` | **High-Rated and Expensive Products** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/high-rated-and-expensive-products--160106/) | [View on GFG](https://www.geeksforgeeks.org/problems/high-rated-and-expensive-products--160106/1) |
-| 8 | `930926` | **Second Highest Salary** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/second-highest-salary--162253/) | [View on GFG](https://www.geeksforgeeks.org/problems/second-highest-salary--162253/1) |
-| 9 | `930960` | **Calculate Discount for Products** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/calculate-discount-for-products--173345/) | [View on GFG](https://www.geeksforgeeks.org/problems/calculate-discount-for-products--173345/1) |
-| 10 | `935230` | **Range Vowel Count Queries Static** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/range-vowel-count-queries-static/) | [View on GFG](https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1) |
-| 11 | `702996` | **Sort in Specific Order** | `JAVA` | `2026-11-19` | [Available (1 file)](./Medium/sort-in-specific-order2422/) | [View on GFG](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) |
-| 12 | `903692` | **K-th Missing in Natural Numbers** | `JAVA` | `2026-11-16` | [Available (1 file)](./Medium/k-th-missing-element-in-natural-numbers/) | [View on GFG](https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1) |
-| 13 | `709993` | **Max Equal Sum in 3 Stacks** | `JAVA` | `2026-11-14` | [Available (1 file)](./Medium/find-maximum-equal-sum-of-three-stacks/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1) |
-| 14 | `700500` | **Common Nodes in Two BSTs** | `JAVA` | 2026-11-13 | [Available (1 file)](./Medium/print-common-nodes-in-bst/) | [View on GFG](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) |
-| 15 | `700028` | **Sort Linked List of 0s, 1s and 2s** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/given-a-linked-list-of-0s-1s-and-2s-sort-it/) | [View on GFG](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) |
-| 16 | `701212` | **Stock Buy and Sell** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/stock-buy-and-sell-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) |
-| 17 | `700325` | **Validate IP Address** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/validate-an-ip-address-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1) |
-| 18 | `700620` | **Cycle Length in Linked List** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/find-length-of-loop/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) |
-| 19 | `700334` | **Dijkstra Algorithm** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/implementing-dijkstra-set-1-adjacency-matrix/) | [View on GFG](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) |
-| 20 | `703219` | **Longest Substring with K Uniques** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/longest-k-unique-characters-substring0853/) | [View on GFG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) |
-| 21 | `700423` | **Closest in BST** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/find-the-closest-element-in-bst/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) |
-| 22 | `703201` | **Longest Common Substring** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/longest-common-substring1452/) | [View on GFG](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) |
-| 23 | `700466` | **Check Triplet With 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/find-triplets-with-zero-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) |
-| 24 | `703459` | **First and Last in Sorted** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/first-and-last-occurrences-of-x3116/) | [View on GFG](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) |
-| 25 | `700255` | **Topological Sort** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/topological-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/topological-sort/1) |
-| 26 | `700053` | **Add 1 to a Linked List Number** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/add-1-to-a-number-represented-as-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |
-| 27 | `703063` | **Minimum Bracket Reversals to Balance** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/count-the-reversals0401/) | [View on GFG](https://www.geeksforgeeks.org/problems/count-the-reversals0401/1) |
-| 28 | `701209` | **Maximum Index** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/maximum-index-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) |
-| 29 | `700253` | **Celebrity Problem** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/the-celebrity-problem/) | [View on GFG](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) |
-| 30 | `701367` | **Job Sequencing Problem** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/job-sequencing-problem-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |
-| 31 | `700688` | **Zig-Zag Tree Traversal** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/zigzag-tree-traversal/) | [View on GFG](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) |
-| 32 | `700408` | **Rat in Maze** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/rat-in-a-maze-problem/) | [View on GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
-| 33 | `702950` | **Row with Max 1s in Rowwise Sorted** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/row-with-max-1s0023/) | [View on GFG](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) |
-| 34 | `700490` | **Top View of Binary Tree** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/top-view-of-binary-tree/) | [View on GFG](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |
-| 35 | `700254` | **Largest Subarray with 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/largest-subarray-with-0-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) |
-| 36 | `703284` | **Pairs with 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/count-pairs-with-given-sum5022/) | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) |
-| 37 | `701235` | **Union of 2 Sorted Arrays** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/union-of-two-sorted-arrays-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
-| 38 | `701362` | **Activity Selection** | `JAVA` | `2026-11-07` | [Available (1 file)](./Medium/activity-selection-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) |
-| 39 | `700218` | **Directed Graph Cycle** | `JAVA` | `2026-11-07` | [Available (1 file)](./Medium/detect-cycle-in-a-directed-graph/) | [View on GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |
-| 40 | `704213` | **Count Subsets with Sum** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/perfect-sum-problem5633/) | [View on GFG](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
-| 41 | `701368` | **Minimum Platforms** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/minimum-platforms-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |
-| 42 | `700219` | **Undirected Graph Cycle** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/detect-cycle-in-an-undirected-graph/) | [View on GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |
-| 43 | `703950` | **XOR of All Subarray XORs** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/game-of-xor1541/) | [View on GFG](https://www.geeksforgeeks.org/problems/game-of-xor1541/1) |
-| 44 | `713590` | **Minimum Days** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/minimum-days--170646/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-days--170646/1) |
-| 45 | `881826` | **Maximum Subarray Sum with One Square Allowed** | `JAVA` | `2026-11-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1) |
-| 46 | `710297` | **Min Edge Reversals for Path** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-edges/1) |
-| 47 | `712351` | **Minimum Absolute Difference In BST** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) |
-| 48 | `704500` | **Min Cost To Make Two Strings Identical** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) |
-| 49 | `705727` | **Largest Subsquare Surrounded by X** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) |
-| 50 | `710357` | **Check Level Anagrams in Binary Trees** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) |
-| 51 | `703678` | **Longest Matching in Dictionary with Removals** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1) |
-| 52 | `705449` | **Pyramid Array with Reduce Operations** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pyramid-form3044/1) |
-| 53 | `705425` | **Minimum Cost Pizza  Selection** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pizza-mania0155/1) |
-| 54 | `701710` | **Range GCD Queries** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1) |
-| 55 | `701755` | **Min Steps by Knight** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1) |
-| 56 | `702647` | **Ways to Reach Origin** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) |
-| 57 | `701196` | **Max Occured in n Ranges** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1) |
-| 58 | `701199` | **Possible Words From Phone Digits** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1) |
-| 59 | `702959` | **Excel Column Name from Number** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1) |
-| 60 | `700276` | **Max Weighted Sum Rotation** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1) |
-| 61 | `701691` | **Lucky Numbers** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/lucky-numbers2911/1) |
-| 62 | `701751` | **Nth Catalan Number** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-catalan-number0817/1) |
-| 63 | `700383` | **Multiply Two Strings** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) |
-| 64 | `704542` | **nCr** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/ncr1019/1) |
-| 65 | `703796` | **Sum of Pairwise ANDs** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) |
-| 66 | `705108` | **Fraction to Repeating Decimal** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/a-simple-fraction0921/1) |
-| 67 | `704603` | **Get Minimum Squares** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/get-minimum-squares0538/1) |
-| 68 | `704185` | **Dice Throw** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/dice-throw5349/1) |
-| 69 | `707278` | **Single in Array of Triples** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1) |
-| 70 | `704157` | **Mobile Numeric Keypad** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1) |
-| 71 | `714123` | **Maximum Triplet product** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-triplet-product--170647/1) |
-| 72 | `705001` | **Nth Root of M** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) |
-| 73 | `703825` | **Digits in N that Divide it** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) |
-| 74 | `703970` | **3 Divisors** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/3-divisors3942/1) |
-| 75 | `703981` | **Hour and Minute Hands Angle** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) |
-| 76 | `705076` | **Jumping Numbers** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/jumping-numbers3805/1) |
-| 77 | `704146` | **Sieve of Eratosthenes** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1) |
-| 78 | `703909` | **Modular Exponentiation** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) |
-| 79 | `704709` | **Last Digit of a^b** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1) |
-| 80 | `703958` | **Largest Prime Factor** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) |
-| 81 | `703441` | **Roll Characters of String** | `CPP` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) |
-| 82 | `933426` | **Successful Binary Searches Irrespective of Pivot** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-always-found/1) |
-| 83 | `714144` | **Maximum Without 3 Consecutive Set Bits** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) |
-| 84 | `705005` | **Minimum Squares with Full Cuts** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1) |
-| 85 | `712059` | **Maximum Frequency with K Increments** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) |
-| 86 | `705619` | **Your Social Network** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/your-social-network0328/1) |
-| 87 | `700411` | **Perimeter of Shapes in Binary Matrix** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1) |
-| 88 | `705725` | **Coils in Matrix** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1) |
-| 89 | `708755` | **Optimal File Merge** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/optimal-file-merge/1) |
-| 90 | `706082` | **Minimum Time to Finish Project** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/project-manager--141631/1) |
-| 91 | `713990` | **Count Indices That Escape Array** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/good-stones--170647/1) |
-| 92 | `709904` | **Largest with Same Parity Adjacent Swaps** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/even-swap/1) |
-| 93 | `710028` | **Minimum Sum Subarray** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) |
-| 94 | `714324` | **Palindrome with Replacement** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) |
-| 95 | `705470` | **Nth in Concatenated Decimal String** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1) |
-| 96 | `861883` | **Count Pairs Violating  BST Property** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pairs-violating-bst-property--212515/1) |
-| 97 | `861590` | **Minimize Max Min Diff with Subarray Removal** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) |
-| 98 | `704498` | **Maximum Weight Transformation of String** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-weight-transformation-of-a-given-string3551/1) |
-| 99 | `704100` | **Coin Change (Count Ways)** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/coin-change2448/1) |
-| 100 | `704179` | **Coin Change (Minimum Coins)** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) |
-| 101 | `712511` | **Stickler Thief II** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/house-robber-ii/1) |
-| 102 | `705327` | **Total Decoding Messages** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1) |
-| 103 | `706123` | **Subset Sum Problem** | `JAVA` | `2025-03-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
-| 104 | `704573` | **Partition Equal Subset Sum** | `JAVA` | `2025-03-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
-| 105 | `701431` | **0 - 1 Knapsack Problem** | `JAVA` | `2025-03-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
-| 106 | `708151` | **Min Cost Climbing Stairs** | `JAVA` | `2025-03-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) |
-| 107 | `701418` | **Ways to Reach the n'th Stair** | `JAVA` | `2025-03-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) |
-| 108 | `703220` | **Longest Palindrome in String** | `JAVA` | `2025-03-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) |
-| 109 | `703355` | **Longest Palindromic Subsequence** | `JAVA` | `2025-03-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
-| 110 | `701429` | **Longest Common Subsequence** | `JAVA` | `2025-03-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
-| 111 | `712573` | **Longest String Chain** | `JAVA` | `2025-03-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
-| 112 | `701428` | **Longest Increasing Subsequence** | `JAVA` | `2025-03-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
-| 113 | `888910` | **Longest Subarray With Limited Pairwise Difference** | `JAVA` | `2025-03-03` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
-| 114 | `705287` | **Decode the String** | `JAVA` | `2025-03-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
-| 115 | `701339` | **Postfix Evaluation** | `JAVA` | `2025-02-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |
-| 116 | `700278` | **Get Min from Stack** | `JAVA` | `2025-02-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) |
-| 117 | `701342` | **Stock Span Problem** | `JAVA` | `2025-02-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |
-| 118 | `701343` | **Next Greater Element** | `JAVA` | `2025-02-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) |
-| 119 | `700265` | **Merge K Sorted Linked Lists** | `JAVA` | `2025-02-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) |
-| 120 | `885661` | **K Closest Points to Origin** | `JAVA` | `2025-02-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-closest-points-to-origin--172242/1) |
-| 121 | `703185` | **k Largest Elements** | `JAVA` | `2025-02-17` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) |
-| 122 | `700236` | **Lowest Common Ancestor in a BST** | `JAVA` | `2025-02-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) |
-| 123 | `926421` | **Consecutive 1's not allowed** | `CPP` | `2025-02-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912--111441/1) |
-| 124 | `701360` | **Median in Stream** | `JAVA` | `2025-02-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) |
-| 125 | `700421` | **Maximum Subset XOR** | `JAVA` | `2025-02-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) |
-| 126 | `700550` | **Pair Sum in BST** | `JAVA` | `2025-02-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1) |
-| 127 | `700498` | **k-th Smallest in BST** | `JAVA` | `2025-02-12` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) |
-| 128 | `700149` | **Check for BST** | `JAVA` | `2025-02-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-for-bst/1) |
-| 129 | `700575` | **K Sum Paths** | `JAVA` | `2025-02-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-sum-paths/1) |
-| 130 | `886491` | **String stack** | `CPP` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/string-stack/1) |
-| 131 | `881440` | **Count Pairs** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs--171904/1) |
-| 132 | `701747` | **Kth Smallest** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) |
-| 133 | `701220` | **Majority Element** | `CPP` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) |
-| 134 | `700611` | **Maximum Path Sum** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
-| 135 | `700204` | **Tree Boundary Traversal** | `JAVA` | `2025-02-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
-| 136 | `704712` | **Median in a Row-Wise Sorted Matrix** | `JAVA` | `2025-02-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) |
-| 137 | `700586` | **Construct Tree from Inorder & Preorder** | `JAVA` | `2025-02-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
-| 138 | `713153` | **Minimum XOR with given set bits** | `PYTHON3` | `2025-02-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-x-xor-a--170645/1) |
-| 139 | `700165` | **Diameter of Binary Tree** | `JAVA` | `2025-02-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
-| 140 | `702088` | **Word Search** | `JAVA` | `2025-02-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/word-search/1) |
-| 141 | `700160` | **Bottom View of Binary Tree** | `JAVA` | `2025-01-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |
-| 142 | `700344` | **Check Sum String** | `JAVA` | `2025-01-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/additive-sequence/1) |
-| 143 | `884385` | **Implement Pow** | `JAVA` | `2025-01-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/powx-n/1) |
-| 144 | `703569` | **Distinct Permutations of String** | `JAVA` | `2025-01-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
-| 145 | `700332` | **Remove Cycle in Linked List** | `JAVA` | `2025-01-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |
-| 146 | `701241` | **Triplet Sum in Array** | `JAVA` | `2025-01-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) |
-| 147 | `713150` | **First Node of Loop in Linked List** | `JAVA` | `2025-01-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1) |
-| 148 | `702918` | **Subarray Sum Divisible By K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1) |
-| 149 | `702926` | **Longest Subarray Sum Divisible by K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1) |
-| 150 | `882031` | **Longest Subarray with Majority Greater than K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1) |
-| 151 | `700099` | **Detect Loop in Linked List** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
-| 152 | `700043` | **Add Number Linked Lists** | `JAVA` | `2025-01-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |
-| 153 | `700176` | **Merge Two Sorted Linked Lists** | `JAVA` | `2025-01-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) |
-| 154 | `700023` | **Rotate a Linked List** | `JAVA` | `2025-01-19` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) |
-| 155 | `700245` | **Largest Subarray of Equal 0's and 1's** | `JAVA` | `2025-01-16` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) |
-| 156 | `703043` | **Longest Subarray with Sum K** | `JAVA` | `2025-01-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
-| 157 | `701939` | **Container With Most Water** | `JAVA` | `2025-01-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
-| 158 | `703205` | **Longest Substring with Distinct Characters** | `JAVA` | `2025-01-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) |
-| 159 | `700444` | **Count Distinct Elements in Every Window** | `JAVA` | `2025-01-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) |
-| 160 | `700647` | **All Duplicate Subtrees** | `JAVA` | `2025-01-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/duplicate-subtrees/1) |
-| 161 | `701236` | **Indexes of Subarray Sum** | `JAVA` | `2025-01-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
-| 162 | `701238` | **Count the Number of Possible Triangles** | `JAVA` | `2025-01-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1) |
-| 163 | `880379` | **Group Shifted String** | `JAVA` | `2025-01-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/group-shifted-string/1) |
-| 164 | `875839` | **4 Sum – Count Quadruplets with Sum** | `CPP` | `2025-01-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-quadruplets-with-given-sum/1) |
-| 165 | `882859` | **Count Triplets with Sum in Sorted** | `JAVA` | `2025-01-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1) |
-| 166 | `874827` | **Count Subarrays with XOR** | `CPP` | `2025-01-03` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) |
-| 167 | `704464` | **Next Happy Number** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-happy-number4538/1) |
-| 168 | `712461` | **Minimum Window Subsequence** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1) |
-| 169 | `704728` | **Sum of 2 Primes** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1) |
-| 170 | `701966` | **Arrange Anagrams Together** | `CPP` | `2025-01-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) |
-| 171 | `701295` | **Longest Consecutive Subsequence** | `CPP` | `2025-01-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) |
-| 172 | `878374` | **Create a spiral matrix of N*M size from given array** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/create-a-spiral-matrix-of-nm-size-from-given-array/1) |
-| 173 | `701256` | **Make Matrix Beautiful** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1) |
-| 174 | `705138` | **Rotate a Matrix by 180 Counterclockwise** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1) |
-| 175 | `706297` | **Construct List using XOR Queries** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/construct-list-using-given-q-xor-queries/1) |
-| 176 | `712228` | **Shortest Path in Undirected Graph** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1) |
-| 177 | `702068` | **Closest Three Sum** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/three-sum-closest/1) |
-| 178 | `700543` | **Ancestors in Binary Tree** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/1) |
-| 179 | `875937` | **Count Pairs with Sum** | `JAVA` | `2024-12-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) |
-| 180 | `874880` | **Set Matrix Zeros** | `JAVA` | `2024-12-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1) |
-| 181 | `701266` | **Search in Sorted Matrix** | `CPP` | `2024-12-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) |
-| 182 | `712262` | **Minimum Days to Make m Bouquets** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1) |
-| 183 | `712107` | **Koko Eating Bananas** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) |
-| 184 | `882678` | **String Modification** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/string-modification--113448/1) |
-| 185 | `882694` | **Reach Alice** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/reach-alice--000930/1) |
-| 186 | `874780` | **Kth Missing Positive in Sorted** | `JAVA` | `2024-12-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) |
-| 187 | `701264` | **Spirally Traversing Matrix** | `JAVA` | `2024-12-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) |
-| 188 | `700241` | **Max Sum Path in Two Arrays** | `CPP` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) |
-| 189 | `704022` | **Transform using Minimum Insert and Delete** | `CPP` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) |
-| 190 | `704431` | **Ways to Climb Stairs Without Considering Order** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1) |
-| 191 | `704822` | **Nth Number without Digit 9** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-natural-number/1) |
-| 192 | `701393` | **Minimum Jumps** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |
-| 193 | `701723` | **Allocate Minimum Pages** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) |
-| 194 | `712207` | **Aggressive Cows** | `JAVA` | `2024-12-17` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/aggressive-cows/1) |
-| 195 | `703253` | **K-th of Two Sorted Arrays** | `JAVA` | `2024-12-16` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) |
-| 196 | `882014` | **Maximum Balance After Operations** | `JAVA` | `2024-12-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/mana-mastery/1) |
-| 197 | `700512` | **Peak in Array** | `JAVA` | `2024-12-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/peak-element/1) |
-| 198 | `702828` | **Search in Rotated Sorted Array** | `JAVA` | `2024-12-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) |
-| 199 | `703129` | **Count Occurrences in Sorted** | `JAVA` | `2024-12-12` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) |
-| 200 | `701195` | **Raise to Power of Its Own Reverse** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) |
-| 201 | `702886` | **Largest by Concatenating Array Elements** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) |
-| 202 | `701243` | **Merge Without Extra Space** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |
-| 203 | `712431` | **Non-Overlapping Intervals** | `JAVA` | `2024-12-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1) |
-| 204 | `712536` | **Insert Interval** | `JAVA` | `2024-12-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/insert-interval-1666733333/1) |
-| 205 | `708874` | **Overlapping Intervals** | `JAVA` | `2024-12-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) |
-| 206 | `701226` | **Count Inversions** | `JAVA` | `2024-12-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) |
-| 207 | `878654` | **H-Index of Researcher** | `JAVA` | `2024-12-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-h-index--165609/1) |
-| 208 | `703242` | **Number to Words** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-to-words0335/1) |
-| 209 | `703703` | **PascalCase Pattern Matching** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/camelcase-pattern-matching2259/1) |
-| 210 | `702382` | **Sort 0s, 1s and 2s** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
-| 211 | `701297` | **String Rotation Check** | `JAVA` | `2024-12-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1) |
-| 212 | `702912` | **Add Binary Strings** | `JAVA` | `2024-11-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) |
-| 213 | `702728` | **Max Consecutive 1's with K Flips** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) |
-| 214 | `878151` | **Last Moment Before All Ants Fall Out** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/last-moment-before-all-ants-fall-out-of-a-plank/1) |
-| 215 | `700386` | **Implement Atoi** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/implement-atoi/1) |
-| 216 | `701192` | **Smallest Positive Missing** | `JAVA` | `2024-11-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) |
-| 217 | `702919` | **Maximum Product Subarray** | `JAVA` | `2024-11-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) |
-| 218 | `878972` | **Pick Apples** | `PYTHON3` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pick-apples/1) |
-| 219 | `880334` | **Connected Pairs in Bitwise AND Graph** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-valid-pairs--153337/1) |
-| 220 | `880374` | **Minimum Time to Burst Balloons** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/burst-balloons--000056/1) |
-| 221 | `701215` | **Kadane's Algorithm** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) |
-| 222 | `702074` | **Stock Buy and Sell – Multiple Transaction Allowed** | `JAVA` | `2024-11-21` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) |
-| 223 | `705146` | **Next Permutation** | `JAVA` | `2024-11-19` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-permutation5226/1) |
-| 224 | `701213` | **Rotate Array** | `JAVA` | `2024-11-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
-| 225 | `700163` | **Intersection in Y Shaped Lists** | `JAVA` | `2024-11-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) |
-| 226 | `701358` | **Nearly Sorted** | `JAVA` | `2024-11-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) |
-| 227 | `713145` | **Minimum Increments to Make Distinct** | `JAVA` | `2024-11-11` | [Available (1 file)](./Medium/make-array-elements-unique--170645/) | [View on GFG](https://www.geeksforgeeks.org/problems/make-array-elements-unique--170645/1) |
-| 228 | `703419` | **Min Sum Pair using Digits** | `JAVA` | `2024-11-09` | [Available (1 file)](./Medium/minimum-sum4058/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-sum4058/1) |
-| 229 | `713539` | **Minimum Repeat to Make Substring** | `JAVA` | `2024-11-08` | [Available (1 file)](./Medium/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645/1) |
-| 230 | `878150` | **Split Array in Three Equal Sum Subarrays** | `JAVA` | `2024-11-07` | [Available (1 file)](./Medium/split-array-in-three-equal-sum-subarrays/) | [View on GFG](https://www.geeksforgeeks.org/problems/split-array-in-three-equal-sum-subarrays/1) |
-| 231 | `700454` | **Root to Leaf Paths Sum** | `JAVA` | `2024-11-06` | [Available (1 file)](./Medium/root-to-leaf-paths-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) |
-| 232 | `701267` | **Rotate by 90 degree** | `JAVA` | `2024-11-05` | [Available (1 file)](./Medium/rotate-by-90-degree-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) |
-| 233 | `876825` | **All Triplets with Zero Sum** | `JAVA` | `2024-11-04` | [Available (1 file)](./Medium/find-all-triplets-with-zero-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-all-triplets-with-zero-sum/1) |
-| 234 | `700608` | **Sorted Insert in DLL** | `JAVA` | `2024-10-31` | [Available (1 file)](./Medium/insert-in-sorted-way-in-a-sorted-dll/) | [View on GFG](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1) |
-| 235 | `700124` | **Quick Sort on Linked List** | `JAVA` | `2024-10-29` | [Available (1 file)](./Medium/quick-sort-on-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1) |
-| 236 | `700151` | **Quick Sort** | `JAVA` | `2024-10-29` | [Available (1 file)](./Medium/quick-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/quick-sort/1) |
-| 237 | `700653` | **Triplet Family** | `JAVA` | `2024-10-27` | [Available (1 file)](./Medium/triplet-family/) | [View on GFG](https://www.geeksforgeeks.org/problems/triplet-family/1) |
-| 238 | `702780` | **Ways to Split into 2 with Same XOR** | `JAVA` | `2024-10-21` | [Available (1 file)](./Medium/split-the-array0238/) | [View on GFG](https://www.geeksforgeeks.org/problems/split-the-array0238/1) |
-| 239 | `710293` | **Sort k Sorted DLL** | `JAVA` | `2024-10-20` | [Available (1 file)](./Medium/sort-a-k-sorted-doubly-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/sort-a-k-sorted-doubly-linked-list/1) |
-| 240 | `706226` | **Subarrays with Sum K** | `JAVA` | `2024-10-15` | [Available (1 file)](./Medium/subarrays-with-sum-k/) | [View on GFG](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) |
-| 241 | `702877` | **Max Sum of 2 Smallest Across Subarrays** | `JAVA` | `2024-10-12` | [Available (2 files)](./Medium/max-sum-in-sub-arrays0824/) | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1) |
-| 242 | `700562` | **Reverse Alternate K in Linked List** | `JAVA` | `2024-10-07` | [Available (1 file)](./Medium/xor-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/xor-linked-list/1) |
-| 243 | `700273` | **Count Islands** | `JAVA` | `2024-10-06` | [Available (1 file)](./Medium/find-the-number-of-islands/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) |
-| 244 | `703420` | **Not a Subset Sum** | `JAVA` | `2024-10-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1) |
-| 245 | `700622` | **Deletion in Circular Linked List** | `JAVA` | `2024-10-04` | [Available (2 files)](./Medium/deletion-and-reverse-in-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1) |
-| 246 | `712100` | **Majority Element - More Than n/3** | `JAVA` | `2024-10-03` | [Available (2 files)](./Medium/majority-vote/) | [View on GFG](https://www.geeksforgeeks.org/problems/majority-vote/1) |
-| 247 | `701204` | **Rotate and Delete** | `JAVASCRIPT` | `2024-10-02` | [Available (2 files)](./Medium/rotate-and-delete-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-and-delete-1587115621/1) |
-| 248 | `700440` | **Merge Two BSTs** | `JAVA` | `2024-09-30` | [Available (2 files)](./Medium/merge-two-bst-s/) | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) |
-| 249 | `712181` | **Minimal Cost of Jumps** | `JAVASCRIPT` | `2024-09-28` | [Available (2 files)](./Medium/minimal-cost/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimal-cost/1) |
-| 250 | `701349` | **K Sized Subarray Maximum** | `JAVA` | `2024-09-27` | [Available (1 file)](./Medium/maximum-of-all-subarrays-of-size-k3101/) | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
-| 251 | `701289` | **Zero Sum Subarray** | `JAVA` | `2024-09-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) |
-| 252 | `700391` | **Palindrome Linked List** | `JAVA` | `2024-09-25` | [Available (2 files)](./Medium/check-if-linked-list-is-pallindrome/) | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) |
-| 253 | `703444` | **Minimize the Heights** | `JAVA` | `2024-09-17` | [Available (2 files)](./Medium/minimize-the-heights3351/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) |
+| 1 | `897411` | **Divisible by 13** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/divisible-by-13/) | [View on GFG](https://www.geeksforgeeks.org/problems/divisible-by-13/1) |
+| 2 | `716016` | **Fraction Pairs with Sum 1** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/fraction-pairs-with-sum-1/) | [View on GFG](https://www.geeksforgeeks.org/problems/fraction-pairs-with-sum-1/1) |
+| 3 | `705123` | **Smith Number** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/smith-number4132/) | [View on GFG](https://www.geeksforgeeks.org/problems/smith-number4132/1) |
+| 4 | `705344` | **Check If Two Segments Intersect** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/check-if-two-line-segments-intersect0017/) | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-two-line-segments-intersect0017/1) |
+| 5 | `704414` | **Next Prime Number** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/next-prime-number/) | [View on GFG](https://www.geeksforgeeks.org/problems/next-prime-number/1) |
+| 6 | `700618` | **Children Sum in a Binary Tree** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/children-sum-parent/) | [View on GFG](https://www.geeksforgeeks.org/problems/children-sum-parent/1) |
+| 7 | `701901` | **Maximize The Cut Segments** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/cutted-segments1642/) | [View on GFG](https://www.geeksforgeeks.org/problems/cutted-segments1642/1) |
+| 8 | `701158` | **Count Set Bits in 1 to n** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/count-total-set-bits-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1) |
+| 9 | `712675` | **Partitions with Given Difference** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/partitions-with-given-difference/) | [View on GFG](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) |
+| 10 | `702805` | **Pythagorean Triplet** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/pythagorean-triplet3018/) | [View on GFG](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) |
+| 11 | `705716` | **Floyd Warshall** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/implementing-floyd-warshall2042/) | [View on GFG](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) |
+| 12 | `700179` | **Sum Tree** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/sum-tree/) | [View on GFG](https://www.geeksforgeeks.org/problems/sum-tree/1) |
+| 13 | `701357` | **Min Cost to Connect Ropes** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/minimum-cost-of-ropes-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) |
+| 14 | `700150` | **Merge Sort** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/merge-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/merge-sort/1) |
+| 15 | `701205` | **Rearrange Array Alternately** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/-rearrange-array-alternately-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) |
+| 16 | `701198` | **Wave Array** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/wave-array-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1) |
+| 17 | `706218` | **Bellman Ford** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/distance-from-the-source-bellman-ford-algorithm/) | [View on GFG](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) |
+| 18 | `930921` | **High-Rated and Expensive Products** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/high-rated-and-expensive-products--160106/) | [View on GFG](https://www.geeksforgeeks.org/problems/high-rated-and-expensive-products--160106/1) |
+| 19 | `930926` | **Second Highest Salary** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/second-highest-salary--162253/) | [View on GFG](https://www.geeksforgeeks.org/problems/second-highest-salary--162253/1) |
+| 20 | `930960` | **Calculate Discount for Products** | `PANDAS` | `2026-11-22` | [Available (1 file)](./Medium/calculate-discount-for-products--173345/) | [View on GFG](https://www.geeksforgeeks.org/problems/calculate-discount-for-products--173345/1) |
+| 21 | `935230` | **Range Vowel Count Queries Static** | `JAVA` | `2026-11-22` | [Available (1 file)](./Medium/range-vowel-count-queries-static/) | [View on GFG](https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1) |
+| 22 | `702996` | **Sort in Specific Order** | `JAVA` | `2026-11-19` | [Available (1 file)](./Medium/sort-in-specific-order2422/) | [View on GFG](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) |
+| 23 | `903692` | **K-th Missing in Natural Numbers** | `JAVA` | `2026-11-16` | [Available (1 file)](./Medium/k-th-missing-element-in-natural-numbers/) | [View on GFG](https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1) |
+| 24 | `709993` | **Max Equal Sum in 3 Stacks** | `JAVA` | `2026-11-14` | [Available (1 file)](./Medium/find-maximum-equal-sum-of-three-stacks/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1) |
+| 25 | `700500` | **Common Nodes in Two BSTs** | `JAVA` | 2026-11-13 | [Available (1 file)](./Medium/print-common-nodes-in-bst/) | [View on GFG](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) |
+| 26 | `700028` | **Sort Linked List of 0s, 1s and 2s** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/given-a-linked-list-of-0s-1s-and-2s-sort-it/) | [View on GFG](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) |
+| 27 | `701212` | **Stock Buy and Sell** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/stock-buy-and-sell-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) |
+| 28 | `700325` | **Validate IP Address** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/validate-an-ip-address-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1) |
+| 29 | `700620` | **Cycle Length in Linked List** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/find-length-of-loop/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) |
+| 30 | `700334` | **Dijkstra Algorithm** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/implementing-dijkstra-set-1-adjacency-matrix/) | [View on GFG](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) |
+| 31 | `703219` | **Longest Substring with K Uniques** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/longest-k-unique-characters-substring0853/) | [View on GFG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) |
+| 32 | `700423` | **Closest in BST** | `JAVA` | `2026-11-12` | [Available (1 file)](./Medium/find-the-closest-element-in-bst/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) |
+| 33 | `703201` | **Longest Common Substring** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/longest-common-substring1452/) | [View on GFG](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) |
+| 34 | `700466` | **Check Triplet With 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/find-triplets-with-zero-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) |
+| 35 | `703459` | **First and Last in Sorted** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/first-and-last-occurrences-of-x3116/) | [View on GFG](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) |
+| 36 | `700255` | **Topological Sort** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/topological-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/topological-sort/1) |
+| 37 | `700053` | **Add 1 to a Linked List Number** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/add-1-to-a-number-represented-as-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |
+| 38 | `703063` | **Minimum Bracket Reversals to Balance** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/count-the-reversals0401/) | [View on GFG](https://www.geeksforgeeks.org/problems/count-the-reversals0401/1) |
+| 39 | `701209` | **Maximum Index** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/maximum-index-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) |
+| 40 | `700253` | **Celebrity Problem** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/the-celebrity-problem/) | [View on GFG](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) |
+| 41 | `701367` | **Job Sequencing Problem** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/job-sequencing-problem-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |
+| 42 | `700688` | **Zig-Zag Tree Traversal** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/zigzag-tree-traversal/) | [View on GFG](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) |
+| 43 | `700408` | **Rat in Maze** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/rat-in-a-maze-problem/) | [View on GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
+| 44 | `702950` | **Row with Max 1s in Rowwise Sorted** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/row-with-max-1s0023/) | [View on GFG](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) |
+| 45 | `700490` | **Top View of Binary Tree** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/top-view-of-binary-tree/) | [View on GFG](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |
+| 46 | `700254` | **Largest Subarray with 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/largest-subarray-with-0-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) |
+| 47 | `703284` | **Pairs with 0 Sum** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/count-pairs-with-given-sum5022/) | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) |
+| 48 | `701235` | **Union of 2 Sorted Arrays** | `JAVA` | `2026-11-09` | [Available (1 file)](./Medium/union-of-two-sorted-arrays-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
+| 49 | `701362` | **Activity Selection** | `JAVA` | `2026-11-07` | [Available (1 file)](./Medium/activity-selection-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) |
+| 50 | `700218` | **Directed Graph Cycle** | `JAVA` | `2026-11-07` | [Available (1 file)](./Medium/detect-cycle-in-a-directed-graph/) | [View on GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |
+| 51 | `704213` | **Count Subsets with Sum** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/perfect-sum-problem5633/) | [View on GFG](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
+| 52 | `701368` | **Minimum Platforms** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/minimum-platforms-1587115620/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |
+| 53 | `700219` | **Undirected Graph Cycle** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/detect-cycle-in-an-undirected-graph/) | [View on GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |
+| 54 | `703950` | **XOR of All Subarray XORs** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/game-of-xor1541/) | [View on GFG](https://www.geeksforgeeks.org/problems/game-of-xor1541/1) |
+| 55 | `713590` | **Minimum Days** | `JAVA` | `2026-11-05` | [Available (1 file)](./Medium/minimum-days--170646/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-days--170646/1) |
+| 56 | `881826` | **Maximum Subarray Sum with One Square Allowed** | `JAVA` | `2026-11-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1) |
+| 57 | `710297` | **Min Edge Reversals for Path** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-edges/1) |
+| 58 | `712351` | **Minimum Absolute Difference In BST** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) |
+| 59 | `704500` | **Min Cost To Make Two Strings Identical** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) |
+| 60 | `705727` | **Largest Subsquare Surrounded by X** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1) |
+| 61 | `710357` | **Check Level Anagrams in Binary Trees** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) |
+| 62 | `703678` | **Longest Matching in Dictionary with Removals** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-largest-word-in-dictionary2430/1) |
+| 63 | `705449` | **Pyramid Array with Reduce Operations** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pyramid-form3044/1) |
+| 64 | `705425` | **Minimum Cost Pizza  Selection** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pizza-mania0155/1) |
+| 65 | `701710` | **Range GCD Queries** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/range-gcd-queries3654/1) |
+| 66 | `701755` | **Min Steps by Knight** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1) |
+| 67 | `702647` | **Ways to Reach Origin** | `JAVA` | `2026-10-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) |
+| 68 | `701196` | **Max Occured in n Ranges** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1) |
+| 69 | `701199` | **Possible Words From Phone Digits** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1) |
+| 70 | `702959` | **Excel Column Name from Number** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1) |
+| 71 | `700276` | **Max Weighted Sum Rotation** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1) |
+| 72 | `701691` | **Lucky Numbers** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/lucky-numbers2911/1) |
+| 73 | `701751` | **Nth Catalan Number** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-catalan-number0817/1) |
+| 74 | `700383` | **Multiply Two Strings** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) |
+| 75 | `704542` | **nCr** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/ncr1019/1) |
+| 76 | `703796` | **Sum of Pairwise ANDs** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sum-of-products5049/1) |
+| 77 | `705108` | **Fraction to Repeating Decimal** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/a-simple-fraction0921/1) |
+| 78 | `704603` | **Get Minimum Squares** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/get-minimum-squares0538/1) |
+| 79 | `704185` | **Dice Throw** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/dice-throw5349/1) |
+| 80 | `707278` | **Single in Array of Triples** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1) |
+| 81 | `704157` | **Mobile Numeric Keypad** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1) |
+| 82 | `714123` | **Maximum Triplet product** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-triplet-product--170647/1) |
+| 83 | `705001` | **Nth Root of M** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) |
+| 84 | `703825` | **Digits in N that Divide it** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) |
+| 85 | `703970` | **3 Divisors** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/3-divisors3942/1) |
+| 86 | `703981` | **Hour and Minute Hands Angle** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) |
+| 87 | `705076` | **Jumping Numbers** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/jumping-numbers3805/1) |
+| 88 | `704146` | **Sieve of Eratosthenes** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1) |
+| 89 | `703909` | **Modular Exponentiation** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) |
+| 90 | `704709` | **Last Digit of a^b** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1) |
+| 91 | `703958` | **Largest Prime Factor** | `JAVA` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) |
+| 92 | `703441` | **Roll Characters of String** | `CPP` | `2026-10-30` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1) |
+| 93 | `933426` | **Successful Binary Searches Irrespective of Pivot** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-always-found/1) |
+| 94 | `714144` | **Maximum Without 3 Consecutive Set Bits** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1) |
+| 95 | `705005` | **Minimum Squares with Full Cuts** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1) |
+| 96 | `712059` | **Maximum Frequency with K Increments** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-frequency-1662528911/1) |
+| 97 | `705619` | **Your Social Network** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/your-social-network0328/1) |
+| 98 | `700411` | **Perimeter of Shapes in Binary Matrix** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-perimeter-of-shapes/1) |
+| 99 | `705725` | **Coils in Matrix** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/form-coils-in-a-matrix4726/1) |
+| 100 | `708755` | **Optimal File Merge** | `JAVA` | `2026-10-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/optimal-file-merge/1) |
+| 101 | `706082` | **Minimum Time to Finish Project** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/project-manager--141631/1) |
+| 102 | `713990` | **Count Indices That Escape Array** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/good-stones--170647/1) |
+| 103 | `709904` | **Largest with Same Parity Adjacent Swaps** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/even-swap/1) |
+| 104 | `710028` | **Minimum Sum Subarray** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) |
+| 105 | `714324` | **Palindrome with Replacement** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/palindrome-with-minimum-sum--170648/1) |
+| 106 | `705470` | **Nth in Concatenated Decimal String** | `JAVA` | `2026-10-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1) |
+| 107 | `861883` | **Count Pairs Violating  BST Property** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pairs-violating-bst-property--212515/1) |
+| 108 | `861590` | **Minimize Max Min Diff with Subarray Removal** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimize-the-difference/1) |
+| 109 | `704498` | **Maximum Weight Transformation of String** | `JAVA` | `2026-10-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-weight-transformation-of-a-given-string3551/1) |
+| 110 | `704100` | **Coin Change (Count Ways)** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/coin-change2448/1) |
+| 111 | `704179` | **Coin Change (Minimum Coins)** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) |
+| 112 | `712511` | **Stickler Thief II** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/house-robber-ii/1) |
+| 113 | `705327` | **Total Decoding Messages** | `JAVA` | `2025-03-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1) |
+| 114 | `706123` | **Subset Sum Problem** | `JAVA` | `2025-03-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
+| 115 | `704573` | **Partition Equal Subset Sum** | `JAVA` | `2025-03-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
+| 116 | `701431` | **0 - 1 Knapsack Problem** | `JAVA` | `2025-03-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
+| 117 | `708151` | **Min Cost Climbing Stairs** | `JAVA` | `2025-03-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) |
+| 118 | `701418` | **Ways to Reach the n'th Stair** | `JAVA` | `2025-03-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) |
+| 119 | `703220` | **Longest Palindrome in String** | `JAVA` | `2025-03-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) |
+| 120 | `703355` | **Longest Palindromic Subsequence** | `JAVA` | `2025-03-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
+| 121 | `701429` | **Longest Common Subsequence** | `JAVA` | `2025-03-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
+| 122 | `712573` | **Longest String Chain** | `JAVA` | `2025-03-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
+| 123 | `701428` | **Longest Increasing Subsequence** | `JAVA` | `2025-03-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
+| 124 | `888910` | **Longest Subarray With Limited Pairwise Difference** | `JAVA` | `2025-03-03` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
+| 125 | `705287` | **Decode the String** | `JAVA` | `2025-03-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
+| 126 | `701339` | **Postfix Evaluation** | `JAVA` | `2025-02-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |
+| 127 | `700278` | **Get Min from Stack** | `JAVA` | `2025-02-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) |
+| 128 | `701342` | **Stock Span Problem** | `JAVA` | `2025-02-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |
+| 129 | `701343` | **Next Greater Element** | `JAVA` | `2025-02-23` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) |
+| 130 | `700265` | **Merge K Sorted Linked Lists** | `JAVA` | `2025-02-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) |
+| 131 | `885661` | **K Closest Points to Origin** | `JAVA` | `2025-02-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-closest-points-to-origin--172242/1) |
+| 132 | `703185` | **k Largest Elements** | `JAVA` | `2025-02-17` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) |
+| 133 | `700236` | **Lowest Common Ancestor in a BST** | `JAVA` | `2025-02-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) |
+| 134 | `926421` | **Consecutive 1's not allowed** | `CPP` | `2025-02-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912--111441/1) |
+| 135 | `701360` | **Median in Stream** | `JAVA` | `2025-02-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) |
+| 136 | `700421` | **Maximum Subset XOR** | `JAVA` | `2025-02-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) |
+| 137 | `700550` | **Pair Sum in BST** | `JAVA` | `2025-02-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1) |
+| 138 | `700498` | **k-th Smallest in BST** | `JAVA` | `2025-02-12` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) |
+| 139 | `700149` | **Check for BST** | `JAVA` | `2025-02-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-for-bst/1) |
+| 140 | `700575` | **K Sum Paths** | `JAVA` | `2025-02-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-sum-paths/1) |
+| 141 | `886491` | **String stack** | `CPP` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/string-stack/1) |
+| 142 | `881440` | **Count Pairs** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs--171904/1) |
+| 143 | `701747` | **Kth Smallest** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) |
+| 144 | `701220` | **Majority Element** | `CPP` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) |
+| 145 | `700611` | **Maximum Path Sum** | `JAVA` | `2025-02-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
+| 146 | `700204` | **Tree Boundary Traversal** | `JAVA` | `2025-02-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
+| 147 | `704712` | **Median in a Row-Wise Sorted Matrix** | `JAVA` | `2025-02-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) |
+| 148 | `700586` | **Construct Tree from Inorder & Preorder** | `JAVA` | `2025-02-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
+| 149 | `713153` | **Minimum XOR with given set bits** | `PYTHON3` | `2025-02-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-x-xor-a--170645/1) |
+| 150 | `700165` | **Diameter of Binary Tree** | `JAVA` | `2025-02-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
+| 151 | `702088` | **Word Search** | `JAVA` | `2025-02-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/word-search/1) |
+| 152 | `700160` | **Bottom View of Binary Tree** | `JAVA` | `2025-01-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |
+| 153 | `700344` | **Check Sum String** | `JAVA` | `2025-01-31` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/additive-sequence/1) |
+| 154 | `884385` | **Implement Pow** | `JAVA` | `2025-01-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/powx-n/1) |
+| 155 | `703569` | **Distinct Permutations of String** | `JAVA` | `2025-01-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
+| 156 | `700332` | **Remove Cycle in Linked List** | `JAVA` | `2025-01-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |
+| 157 | `701241` | **Triplet Sum in Array** | `JAVA` | `2025-01-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) |
+| 158 | `713150` | **First Node of Loop in Linked List** | `JAVA` | `2025-01-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1) |
+| 159 | `702918` | **Subarray Sum Divisible By K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1) |
+| 160 | `702926` | **Longest Subarray Sum Divisible by K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1) |
+| 161 | `882031` | **Longest Subarray with Majority Greater than K** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1) |
+| 162 | `700099` | **Detect Loop in Linked List** | `JAVA` | `2025-01-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
+| 163 | `700043` | **Add Number Linked Lists** | `JAVA` | `2025-01-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |
+| 164 | `700176` | **Merge Two Sorted Linked Lists** | `JAVA` | `2025-01-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) |
+| 165 | `700023` | **Rotate a Linked List** | `JAVA` | `2025-01-19` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) |
+| 166 | `700245` | **Largest Subarray of Equal 0's and 1's** | `JAVA` | `2025-01-16` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) |
+| 167 | `703043` | **Longest Subarray with Sum K** | `JAVA` | `2025-01-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
+| 168 | `701939` | **Container With Most Water** | `JAVA` | `2025-01-13` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
+| 169 | `703205` | **Longest Substring with Distinct Characters** | `JAVA` | `2025-01-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) |
+| 170 | `700444` | **Count Distinct Elements in Every Window** | `JAVA` | `2025-01-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) |
+| 171 | `700647` | **All Duplicate Subtrees** | `JAVA` | `2025-01-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/duplicate-subtrees/1) |
+| 172 | `701236` | **Indexes of Subarray Sum** | `JAVA` | `2025-01-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
+| 173 | `701238` | **Count the Number of Possible Triangles** | `JAVA` | `2025-01-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1) |
+| 174 | `880379` | **Group Shifted String** | `JAVA` | `2025-01-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/group-shifted-string/1) |
+| 175 | `875839` | **4 Sum – Count Quadruplets with Sum** | `CPP` | `2025-01-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-quadruplets-with-given-sum/1) |
+| 176 | `882859` | **Count Triplets with Sum in Sorted** | `JAVA` | `2025-01-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1) |
+| 177 | `874827` | **Count Subarrays with XOR** | `CPP` | `2025-01-03` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) |
+| 178 | `704464` | **Next Happy Number** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-happy-number4538/1) |
+| 179 | `712461` | **Minimum Window Subsequence** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1) |
+| 180 | `704728` | **Sum of 2 Primes** | `CPP` | `2025-01-02` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1) |
+| 181 | `701966` | **Arrange Anagrams Together** | `CPP` | `2025-01-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) |
+| 182 | `701295` | **Longest Consecutive Subsequence** | `CPP` | `2025-01-01` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) |
+| 183 | `878374` | **Create a spiral matrix of N*M size from given array** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/create-a-spiral-matrix-of-nm-size-from-given-array/1) |
+| 184 | `701256` | **Make Matrix Beautiful** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1) |
+| 185 | `705138` | **Rotate a Matrix by 180 Counterclockwise** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1) |
+| 186 | `706297` | **Construct List using XOR Queries** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/construct-list-using-given-q-xor-queries/1) |
+| 187 | `712228` | **Shortest Path in Undirected Graph** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1) |
+| 188 | `702068` | **Closest Three Sum** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/three-sum-closest/1) |
+| 189 | `700543` | **Ancestors in Binary Tree** | `CPP` | `2024-12-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/1) |
+| 190 | `875937` | **Count Pairs with Sum** | `JAVA` | `2024-12-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) |
+| 191 | `874880` | **Set Matrix Zeros** | `JAVA` | `2024-12-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1) |
+| 192 | `701266` | **Search in Sorted Matrix** | `CPP` | `2024-12-26` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) |
+| 193 | `712262` | **Minimum Days to Make m Bouquets** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1) |
+| 194 | `712107` | **Koko Eating Bananas** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) |
+| 195 | `882678` | **String Modification** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/string-modification--113448/1) |
+| 196 | `882694` | **Reach Alice** | `JAVA` | `2024-12-22` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/reach-alice--000930/1) |
+| 197 | `874780` | **Kth Missing Positive in Sorted** | `JAVA` | `2024-12-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) |
+| 198 | `701264` | **Spirally Traversing Matrix** | `JAVA` | `2024-12-20` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) |
+| 199 | `700241` | **Max Sum Path in Two Arrays** | `CPP` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) |
+| 200 | `704022` | **Transform using Minimum Insert and Delete** | `CPP` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) |
+| 201 | `704431` | **Ways to Climb Stairs Without Considering Order** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter5639/1) |
+| 202 | `704822` | **Nth Number without Digit 9** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nth-natural-number/1) |
+| 203 | `701393` | **Minimum Jumps** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |
+| 204 | `701723` | **Allocate Minimum Pages** | `JAVA` | `2024-12-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) |
+| 205 | `712207` | **Aggressive Cows** | `JAVA` | `2024-12-17` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/aggressive-cows/1) |
+| 206 | `703253` | **K-th of Two Sorted Arrays** | `JAVA` | `2024-12-16` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) |
+| 207 | `882014` | **Maximum Balance After Operations** | `JAVA` | `2024-12-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/mana-mastery/1) |
+| 208 | `700512` | **Peak in Array** | `JAVA` | `2024-12-15` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/peak-element/1) |
+| 209 | `702828` | **Search in Rotated Sorted Array** | `JAVA` | `2024-12-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) |
+| 210 | `703129` | **Count Occurrences in Sorted** | `JAVA` | `2024-12-12` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) |
+| 211 | `701195` | **Raise to Power of Its Own Reverse** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) |
+| 212 | `702886` | **Largest by Concatenating Array Elements** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) |
+| 213 | `701243` | **Merge Without Extra Space** | `JAVA` | `2024-12-11` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |
+| 214 | `712431` | **Non-Overlapping Intervals** | `JAVA` | `2024-12-10` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1) |
+| 215 | `712536` | **Insert Interval** | `JAVA` | `2024-12-09` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/insert-interval-1666733333/1) |
+| 216 | `708874` | **Overlapping Intervals** | `JAVA` | `2024-12-08` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) |
+| 217 | `701226` | **Count Inversions** | `JAVA` | `2024-12-07` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) |
+| 218 | `878654` | **H-Index of Researcher** | `JAVA` | `2024-12-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/find-h-index--165609/1) |
+| 219 | `703242` | **Number to Words** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/number-to-words0335/1) |
+| 220 | `703703` | **PascalCase Pattern Matching** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/camelcase-pattern-matching2259/1) |
+| 221 | `702382` | **Sort 0s, 1s and 2s** | `JAVA` | `2024-12-05` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
+| 222 | `701297` | **String Rotation Check** | `JAVA` | `2024-12-04` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1) |
+| 223 | `702912` | **Add Binary Strings** | `JAVA` | `2024-11-29` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) |
+| 224 | `702728` | **Max Consecutive 1's with K Flips** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) |
+| 225 | `878151` | **Last Moment Before All Ants Fall Out** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/last-moment-before-all-ants-fall-out-of-a-plank/1) |
+| 226 | `700386` | **Implement Atoi** | `JAVA` | `2024-11-28` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/implement-atoi/1) |
+| 227 | `701192` | **Smallest Positive Missing** | `JAVA` | `2024-11-27` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) |
+| 228 | `702919` | **Maximum Product Subarray** | `JAVA` | `2024-11-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) |
+| 229 | `878972` | **Pick Apples** | `PYTHON3` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/pick-apples/1) |
+| 230 | `880334` | **Connected Pairs in Bitwise AND Graph** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/count-valid-pairs--153337/1) |
+| 231 | `880374` | **Minimum Time to Burst Balloons** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/burst-balloons--000056/1) |
+| 232 | `701215` | **Kadane's Algorithm** | `JAVA` | `2024-11-24` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) |
+| 233 | `702074` | **Stock Buy and Sell – Multiple Transaction Allowed** | `JAVA` | `2024-11-21` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) |
+| 234 | `705146` | **Next Permutation** | `JAVA` | `2024-11-19` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/next-permutation5226/1) |
+| 235 | `701213` | **Rotate Array** | `JAVA` | `2024-11-18` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
+| 236 | `700163` | **Intersection in Y Shaped Lists** | `JAVA` | `2024-11-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) |
+| 237 | `701358` | **Nearly Sorted** | `JAVA` | `2024-11-14` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) |
+| 238 | `713145` | **Minimum Increments to Make Distinct** | `JAVA` | `2024-11-11` | [Available (1 file)](./Medium/make-array-elements-unique--170645/) | [View on GFG](https://www.geeksforgeeks.org/problems/make-array-elements-unique--170645/1) |
+| 239 | `703419` | **Min Sum Pair using Digits** | `JAVA` | `2024-11-09` | [Available (1 file)](./Medium/minimum-sum4058/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-sum4058/1) |
+| 240 | `713539` | **Minimum Repeat to Make Substring** | `JAVA` | `2024-11-08` | [Available (1 file)](./Medium/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645/1) |
+| 241 | `878150` | **Split Array in Three Equal Sum Subarrays** | `JAVA` | `2024-11-07` | [Available (1 file)](./Medium/split-array-in-three-equal-sum-subarrays/) | [View on GFG](https://www.geeksforgeeks.org/problems/split-array-in-three-equal-sum-subarrays/1) |
+| 242 | `700454` | **Root to Leaf Paths Sum** | `JAVA` | `2024-11-06` | [Available (1 file)](./Medium/root-to-leaf-paths-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) |
+| 243 | `701267` | **Rotate by 90 degree** | `JAVA` | `2024-11-05` | [Available (1 file)](./Medium/rotate-by-90-degree-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) |
+| 244 | `876825` | **All Triplets with Zero Sum** | `JAVA` | `2024-11-04` | [Available (1 file)](./Medium/find-all-triplets-with-zero-sum/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-all-triplets-with-zero-sum/1) |
+| 245 | `700608` | **Sorted Insert in DLL** | `JAVA` | `2024-10-31` | [Available (1 file)](./Medium/insert-in-sorted-way-in-a-sorted-dll/) | [View on GFG](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1) |
+| 246 | `700124` | **Quick Sort on Linked List** | `JAVA` | `2024-10-29` | [Available (1 file)](./Medium/quick-sort-on-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1) |
+| 247 | `700151` | **Quick Sort** | `JAVA` | `2024-10-29` | [Available (1 file)](./Medium/quick-sort/) | [View on GFG](https://www.geeksforgeeks.org/problems/quick-sort/1) |
+| 248 | `700653` | **Triplet Family** | `JAVA` | `2024-10-27` | [Available (1 file)](./Medium/triplet-family/) | [View on GFG](https://www.geeksforgeeks.org/problems/triplet-family/1) |
+| 249 | `702780` | **Ways to Split into 2 with Same XOR** | `JAVA` | `2024-10-21` | [Available (1 file)](./Medium/split-the-array0238/) | [View on GFG](https://www.geeksforgeeks.org/problems/split-the-array0238/1) |
+| 250 | `710293` | **Sort k Sorted DLL** | `JAVA` | `2024-10-20` | [Available (1 file)](./Medium/sort-a-k-sorted-doubly-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/sort-a-k-sorted-doubly-linked-list/1) |
+| 251 | `706226` | **Subarrays with Sum K** | `JAVA` | `2024-10-15` | [Available (1 file)](./Medium/subarrays-with-sum-k/) | [View on GFG](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) |
+| 252 | `702877` | **Max Sum of 2 Smallest Across Subarrays** | `JAVA` | `2024-10-12` | [Available (2 files)](./Medium/max-sum-in-sub-arrays0824/) | [View on GFG](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1) |
+| 253 | `700562` | **Reverse Alternate K in Linked List** | `JAVA` | `2024-10-07` | [Available (1 file)](./Medium/xor-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/xor-linked-list/1) |
+| 254 | `700273` | **Count Islands** | `JAVA` | `2024-10-06` | [Available (1 file)](./Medium/find-the-number-of-islands/) | [View on GFG](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) |
+| 255 | `703420` | **Not a Subset Sum** | `JAVA` | `2024-10-06` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1) |
+| 256 | `700622` | **Deletion in Circular Linked List** | `JAVA` | `2024-10-04` | [Available (2 files)](./Medium/deletion-and-reverse-in-linked-list/) | [View on GFG](https://www.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1) |
+| 257 | `712100` | **Majority Element - More Than n/3** | `JAVA` | `2024-10-03` | [Available (2 files)](./Medium/majority-vote/) | [View on GFG](https://www.geeksforgeeks.org/problems/majority-vote/1) |
+| 258 | `701204` | **Rotate and Delete** | `JAVASCRIPT` | `2024-10-02` | [Available (2 files)](./Medium/rotate-and-delete-1587115621/) | [View on GFG](https://www.geeksforgeeks.org/problems/rotate-and-delete-1587115621/1) |
+| 259 | `700440` | **Merge Two BSTs** | `JAVA` | `2024-09-30` | [Available (2 files)](./Medium/merge-two-bst-s/) | [View on GFG](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) |
+| 260 | `712181` | **Minimal Cost of Jumps** | `JAVASCRIPT` | `2024-09-28` | [Available (2 files)](./Medium/minimal-cost/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimal-cost/1) |
+| 261 | `701349` | **K Sized Subarray Maximum** | `JAVA` | `2024-09-27` | [Available (1 file)](./Medium/maximum-of-all-subarrays-of-size-k3101/) | [View on GFG](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
+| 262 | `701289` | **Zero Sum Subarray** | `JAVA` | `2024-09-25` | *Unavailable (Private on GFG)* | [View on GFG](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) |
+| 263 | `700391` | **Palindrome Linked List** | `JAVA` | `2024-09-25` | [Available (2 files)](./Medium/check-if-linked-list-is-pallindrome/) | [View on GFG](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) |
+| 264 | `703444` | **Minimize the Heights** | `JAVA` | `2024-09-17` | [Available (2 files)](./Medium/minimize-the-heights3351/) | [View on GFG](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) |
 
 ## Easy Problems (116)
 

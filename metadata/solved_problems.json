@@ -1,5 +1,5 @@
 {
-  "total_count": 649,
+  "total_count": 660,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -8954,7 +8954,194 @@
       "solution_sha256": [
         "a1b6f3b9051de48479a83316f5876915f200d9cb0c74ae0144c9325b7def1565"
       ]
+    },
+    {
+      "problem_id": "897411",
+      "title": "Divisible by 13",
+      "slug": "divisible-by-13",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:41:11",
+      "official_url": "https://www.geeksforgeeks.org/problems/divisible-by-13/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/divisible-by-13/Solution.java"
+      ],
+      "solution_sha256": [
+        "a3b5326f909f544591b19b9cf3108b0de9d5893409c6733e83caa0665cb4c00a"
+      ]
+    },
+    {
+      "problem_id": "716016",
+      "title": "Fraction Pairs with Sum 1",
+      "slug": "fraction-pairs-with-sum-1",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:39:49",
+      "official_url": "https://www.geeksforgeeks.org/problems/fraction-pairs-with-sum-1/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/fraction-pairs-with-sum-1/Solution.java"
+      ],
+      "solution_sha256": [
+        "7f8cfc81b6dccda0afdc56e4fc732d34838c81665945ccb1c848d40f3f395367"
+      ]
+    },
+    {
+      "problem_id": "705123",
+      "title": "Smith Number",
+      "slug": "smith-number4132",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:38:44",
+      "official_url": "https://www.geeksforgeeks.org/problems/smith-number4132/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/smith-number4132/Solution.java"
+      ],
+      "solution_sha256": [
+        "ee762a35b75309e3ebc24ff6538fa511fe953ce187527dd473c24278f90dead1"
+      ]
+    },
+    {
+      "problem_id": "705344",
+      "title": "Check If Two Segments Intersect",
+      "slug": "check-if-two-line-segments-intersect0017",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:37:37",
+      "official_url": "https://www.geeksforgeeks.org/problems/check-if-two-line-segments-intersect0017/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/check-if-two-line-segments-intersect0017/Solution.java"
+      ],
+      "solution_sha256": [
+        "033bcc532db9f6a473fa78d3b62a4b554440a29976eded4a73f3a624a8a20d50"
+      ]
+    },
+    {
+      "problem_id": "704414",
+      "title": "Next Prime Number",
+      "slug": "next-prime-number",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:37:07",
+      "official_url": "https://www.geeksforgeeks.org/problems/next-prime-number/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/next-prime-number/Solution.java"
+      ],
+      "solution_sha256": [
+        "702f2f728c763119b0be5428127f1e623a8a009fd9935e995386f25fc9b77ea6"
+      ]
+    },
+    {
+      "problem_id": "700618",
+      "title": "Children Sum in a Binary Tree",
+      "slug": "children-sum-parent",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:36:12",
+      "official_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/children-sum-parent/Solution.java"
+      ],
+      "solution_sha256": [
+        "2a0427c1f8594419aeccb05ef77f954929723337f19cddb908ebf6f3a8e88cd1"
+      ]
+    },
+    {
+      "problem_id": "701901",
+      "title": "Maximize The Cut Segments",
+      "slug": "cutted-segments1642",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:35:23",
+      "official_url": "https://www.geeksforgeeks.org/problems/cutted-segments1642/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/cutted-segments1642/Solution.java"
+      ],
+      "solution_sha256": [
+        "8903eb438bf3805f8e913427542baf25f412efbaec09c03e5ad4c4a3ce6d7c0b"
+      ]
+    },
+    {
+      "problem_id": "701158",
+      "title": "Count Set Bits in 1 to n",
+      "slug": "count-total-set-bits-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:34:41",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-total-set-bits-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "3a89171b42d5183a4c6b7afa4b6637ca9eddfa3e005134429636d544a6786341"
+      ]
+    },
+    {
+      "problem_id": "712675",
+      "title": "Partitions with Given Difference",
+      "slug": "partitions-with-given-difference",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:34:02",
+      "official_url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/partitions-with-given-difference/Solution.java"
+      ],
+      "solution_sha256": [
+        "ecee5fcafdd9871fe4d21caeee35ab4b86730dd169847de09b62d1306fcb8bd3"
+      ]
+    },
+    {
+      "problem_id": "702805",
+      "title": "Pythagorean Triplet",
+      "slug": "pythagorean-triplet3018",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:33:20",
+      "official_url": "https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/pythagorean-triplet3018/Solution.java"
+      ],
+      "solution_sha256": [
+        "9b85637a2cdd26627cf1f1ae94726fb57b52fb3928523305d461bdd02563c319"
+      ]
+    },
+    {
+      "problem_id": "705716",
+      "title": "Floyd Warshall",
+      "slug": "implementing-floyd-warshall2042",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-22 20:32:41",
+      "official_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/implementing-floyd-warshall2042/Solution.java"
+      ],
+      "solution_sha256": [
+        "c19c03b71356bf0d7632899295fc6f0c79d22887111bf2cd0206b92537f82e85"
+      ]
     }
   ],
-  "last_updated": "2026-11-22 19:28:32"
+  "last_updated": "2026-11-22 20:41:11"
 }
