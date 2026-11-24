@@ -1,5 +1,5 @@
 {
-  "total_count": 667,
+  "total_count": 668,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9260,7 +9260,24 @@
       "solution_sha256": [
         "f2a7c127bd0df9bb22bcd2fca585c9914259d7f082bb4d15cdb4386b79d63093"
       ]
+    },
+    {
+      "problem_id": "705546",
+      "title": "Two Pairs with Same Sum",
+      "slug": "satisfy-the-equation5847",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 01:42:37",
+      "official_url": "https://www.geeksforgeeks.org/problems/satisfy-the-equation5847/1",
+      "topic_tags": "Hash, Sorting, Map",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/satisfy-the-equation5847/Solution.java"
+      ],
+      "solution_sha256": [
+        "b426d2539beb4cda34a04ed8284823e78b330d09e1c5b6b5f0b3c534684afb41"
+      ]
     }
   ],
-  "last_updated": "2026-11-23 01:15:59"
+  "last_updated": "2026-11-24 01:42:37"
 }
