@@ -1,5 +1,5 @@
 {
-  "total_count": 668,
+  "total_count": 676,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9277,7 +9277,143 @@
       "solution_sha256": [
         "b426d2539beb4cda34a04ed8284823e78b330d09e1c5b6b5f0b3c534684afb41"
       ]
+    },
+    {
+      "problem_id": "703292",
+      "title": "Triplets with Smaller Sum",
+      "slug": "count-triplets-with-sum-smaller-than-x5549",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:25:11",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-triplets-with-sum-smaller-than-x5549/Solution.java"
+      ],
+      "solution_sha256": [
+        "f60235901f4abd63a5aff43ed86f24b99c447e48e65725b3393735baa3df1531"
+      ]
+    },
+    {
+      "problem_id": "712123",
+      "title": "Longest Subarray with Atmost Two Distinct",
+      "slug": "longest-subarray-with-atmost-two-distinct-integers",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:24:12",
+      "official_url": "https://www.geeksforgeeks.org/problems/longest-subarray-with-atmost-two-distinct-integers/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/longest-subarray-with-atmost-two-distinct-integers/Solution.java"
+      ],
+      "solution_sha256": [
+        "fc54d54fb0dd0850053629e6468e4bdc81222fa5f12bcf2c4b2fae8591a9a4d2"
+      ]
+    },
+    {
+      "problem_id": "702139",
+      "title": "4 Sum - All Quadruples",
+      "slug": "find-all-four-sum-numbers1732",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:23:20",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-all-four-sum-numbers1732/Solution.java"
+      ],
+      "solution_sha256": [
+        "1c2d6e578bb05bc20f73907a5dbbef5295daeec3c4426a5cc08313b4798004e6"
+      ]
+    },
+    {
+      "problem_id": "705822",
+      "title": "Police and Thieves",
+      "slug": "police-and-thieves--141631",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:22:33",
+      "official_url": "https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/police-and-thieves--141631/Solution.java"
+      ],
+      "solution_sha256": [
+        "19be53e21b2ed66fcd12b4162a86dcde5644b0324691d50a0b4ac48083f4e9a2"
+      ]
+    },
+    {
+      "problem_id": "712141",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:21:35",
+      "official_url": "https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/longest-repeating-character-replacement/Solution.java"
+      ],
+      "solution_sha256": [
+        "4ff8c2e042c81bfcac864873d7d377a40fd88bc0908b5eb4acac57afaf76744f"
+      ]
+    },
+    {
+      "problem_id": "912366",
+      "title": "Implement Deque using DLL",
+      "slug": "implementation-of-deque-using-doubly-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:19:50",
+      "official_url": "https://www.geeksforgeeks.org/problems/implementation-of-deque-using-doubly-linked-list/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/implementation-of-deque-using-doubly-linked-list/Solution.java"
+      ],
+      "solution_sha256": [
+        "685658f57c8e2cfa532ec70eb483742a8434656fc686db308e8addb3832ec0a6"
+      ]
+    },
+    {
+      "problem_id": "912156",
+      "title": "Deque using Circular Array",
+      "slug": "implementation-of-deque-using-circular-array--174925",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:17:52",
+      "official_url": "https://www.geeksforgeeks.org/problems/implementation-of-deque-using-circular-array--174925/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/implementation-of-deque-using-circular-array--174925/Solution.java"
+      ],
+      "solution_sha256": [
+        "f4edb97334b69719afe9f79f9b0287b1654c72e8363d9dd6823e3cb3a147fc2e"
+      ]
+    },
+    {
+      "problem_id": "912110",
+      "title": "Design MinMax Queue",
+      "slug": "design-minmax-queue",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-24 11:16:30",
+      "official_url": "https://www.geeksforgeeks.org/problems/design-minmax-queue/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/design-minmax-queue/Solution.java"
+      ],
+      "solution_sha256": [
+        "5353e02072e8e9b5c264598e388738ee5d6cbffb02701f98e34307779f10e5a7"
+      ]
     }
   ],
-  "last_updated": "2026-11-24 01:42:37"
+  "last_updated": "2026-11-24 11:25:11"
 }
