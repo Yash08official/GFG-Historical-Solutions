@@ -1,5 +1,5 @@
 {
-  "total_count": 676,
+  "total_count": 682,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9413,7 +9413,109 @@
       "solution_sha256": [
         "5353e02072e8e9b5c264598e388738ee5d6cbffb02701f98e34307779f10e5a7"
       ]
+    },
+    {
+      "problem_id": "706063",
+      "title": "Pairs with Positive Sum",
+      "slug": "valid-pair-sum--141631",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:53:51",
+      "official_url": "https://www.geeksforgeeks.org/problems/valid-pair-sum--141631/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/valid-pair-sum--141631/Solution.java"
+      ],
+      "solution_sha256": [
+        "258c1cb5b3e3655c3345a4c140802cf141041a2c35d042657b3d0ef466044e01"
+      ]
+    },
+    {
+      "problem_id": "708475",
+      "title": "Maximum Teams of Size K",
+      "slug": "maximum-team-of-k-player",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:53:04",
+      "official_url": "https://www.geeksforgeeks.org/problems/maximum-team-of-k-player/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/maximum-team-of-k-player/Solution.java"
+      ],
+      "solution_sha256": [
+        "82ddee7314e107abec155724cf94fdc2375dc0a2902f5a8d6ee837dc39998fac"
+      ]
+    },
+    {
+      "problem_id": "899289",
+      "title": "Rational Number Search",
+      "slug": "find-rational-number",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:52:16",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-rational-number/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-rational-number/Solution.java"
+      ],
+      "solution_sha256": [
+        "094fd464844915b12bf4231b712476613e8d298226fefe8b2d56f9e3e09e3771"
+      ]
+    },
+    {
+      "problem_id": "700563",
+      "title": "Counting elements in two arrays",
+      "slug": "counting-elements-in-two-arrays",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:51:24",
+      "official_url": "https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/counting-elements-in-two-arrays/Solution.java"
+      ],
+      "solution_sha256": [
+        "e2d8ef4f292081ce41e2a365aeb4698d85b6cf3d42d8f8598d739eb392c82990"
+      ]
+    },
+    {
+      "problem_id": "702772",
+      "title": "Single Among Doubles in a Sorted",
+      "slug": "find-the-element-that-appears-once-in-sorted-array0624",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:50:39",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-the-element-that-appears-once-in-sorted-array0624/Solution.java"
+      ],
+      "solution_sha256": [
+        "0ada79ca1d7c5b52f40523a060a2d056c2e81b402c2f8f90356b110910b6609b"
+      ]
+    },
+    {
+      "problem_id": "701227",
+      "title": "Two Repeated Elements",
+      "slug": "two-repeated-elements-1587115621",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-25 09:49:53",
+      "official_url": "https://www.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/two-repeated-elements-1587115621/Solution.java"
+      ],
+      "solution_sha256": [
+        "95fb8377ec5df3a15d394626f3833d00a44b523bfb8110810363e4fbb6d18c5d"
+      ]
     }
   ],
-  "last_updated": "2026-11-24 11:25:11"
+  "last_updated": "2026-11-25 09:53:51"
 }
