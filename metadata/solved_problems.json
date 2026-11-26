@@ -1,5 +1,5 @@
 {
-  "total_count": 682,
+  "total_count": 692,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9515,7 +9515,177 @@
       "solution_sha256": [
         "95fb8377ec5df3a15d394626f3833d00a44b523bfb8110810363e4fbb6d18c5d"
       ]
+    },
+    {
+      "problem_id": "703326",
+      "title": "Smallest Subarray GCD",
+      "slug": "smallest-sub-array4107",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 11:01:55",
+      "official_url": "https://www.geeksforgeeks.org/problems/smallest-sub-array4107/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/smallest-sub-array4107/Solution.java"
+      ],
+      "solution_sha256": [
+        "fc95b7177aa32dd74856b8f5e6019fd6daabb980962cfeb3255361e287a3560d"
+      ]
+    },
+    {
+      "problem_id": "705171",
+      "title": "Array Queries with OR and XOR",
+      "slug": "element-left-after-performing-alternate-or-xor-operation5106",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 11:00:52",
+      "official_url": "https://www.geeksforgeeks.org/problems/element-left-after-performing-alternate-or-xor-operation5106/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/element-left-after-performing-alternate-or-xor-operation5106/Solution.java"
+      ],
+      "solution_sha256": [
+        "65e837a5cb73179b19b91b937a0a728ffee70ccdcec8d1d79c54872d5b18907a"
+      ]
+    },
+    {
+      "problem_id": "705483",
+      "title": "Kth Smallest in Subarray Queries",
+      "slug": "easy-query3301",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:59:56",
+      "official_url": "https://www.geeksforgeeks.org/problems/easy-query3301/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/easy-query3301/Solution.java"
+      ],
+      "solution_sha256": [
+        "0d82a5a36cc0ce0cf4050dbd0d1dd078e08144444833c0eb5948de1309deb958"
+      ]
+    },
+    {
+      "problem_id": "702829",
+      "title": "Smallest With At Least n Trailing 0s in Factorial",
+      "slug": "smallest-factorial-number5929",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:57:55",
+      "official_url": "https://www.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/smallest-factorial-number5929/Solution.java"
+      ],
+      "solution_sha256": [
+        "f53503b8fee1a83215cec0104229fed450a187ed11c0b00a2e6298e0a5b0154c"
+      ]
+    },
+    {
+      "problem_id": "701764",
+      "title": "Count Only Repeated",
+      "slug": "count-only-repeated2047",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:57:11",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-only-repeated2047/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-only-repeated2047/Solution.java"
+      ],
+      "solution_sha256": [
+        "d62571d79a13afef0b001328701af6a34778ff672ec90e18ed8c13eb8545eafb"
+      ]
+    },
+    {
+      "problem_id": "703523",
+      "title": "Nine Divisors",
+      "slug": "nine-divisors3751",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:56:18",
+      "official_url": "https://www.geeksforgeeks.org/problems/nine-divisors3751/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/nine-divisors3751/Solution.java"
+      ],
+      "solution_sha256": [
+        "3d017d5d809cdd374a54cbe62c080ed883115a05ca1d9d0b736ab34ed63d6f8a"
+      ]
+    },
+    {
+      "problem_id": "702913",
+      "title": "Super Primes",
+      "slug": "super-primes2443",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:55:24",
+      "official_url": "https://www.geeksforgeeks.org/problems/super-primes2443/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/super-primes2443/Solution.java"
+      ],
+      "solution_sha256": [
+        "f25818529c3bacb0b4d082c826ed0cd738eb3e1e7914c2b9249c9687b7fd66c9"
+      ]
+    },
+    {
+      "problem_id": "706239",
+      "title": "Ternary Search",
+      "slug": "searching-an-element-in-a-sorted-array-ternary-search--141631",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:54:40",
+      "official_url": "https://www.geeksforgeeks.org/problems/searching-an-element-in-a-sorted-array-ternary-search--141631/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/searching-an-element-in-a-sorted-array-ternary-search--141631/Solution.java"
+      ],
+      "solution_sha256": [
+        "f733eab9121e079652f37325f5abbc41a08b8dacb8999cb8f78f62cc79fde7d4"
+      ]
+    },
+    {
+      "problem_id": "703198",
+      "title": "Equilibrium Points",
+      "slug": "magnet-array-problem3743",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:53:57",
+      "official_url": "https://www.geeksforgeeks.org/problems/magnet-array-problem3743/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/magnet-array-problem3743/Solution.java"
+      ],
+      "solution_sha256": [
+        "1517f8e25b293b1e47bb25e5e9eaa363c2a05c88e42f433922d5bcbab21f2efb"
+      ]
+    },
+    {
+      "problem_id": "702822",
+      "title": "Pair Sum Closest to 0",
+      "slug": "two-numbers-with-sum-closest-to-zero1737",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 10:52:50",
+      "official_url": "https://www.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/two-numbers-with-sum-closest-to-zero1737/Solution.java"
+      ],
+      "solution_sha256": [
+        "7560fd565fd1b49eef0073a10eb01f2eece46c332f4e250ee5950962dda25968"
+      ]
     }
   ],
-  "last_updated": "2026-11-25 09:53:51"
+  "last_updated": "2026-11-26 11:01:55"
 }
