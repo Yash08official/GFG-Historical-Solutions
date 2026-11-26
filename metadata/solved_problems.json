@@ -1,5 +1,5 @@
 {
-  "total_count": 692,
+  "total_count": 699,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9685,7 +9685,126 @@
       "solution_sha256": [
         "7560fd565fd1b49eef0073a10eb01f2eece46c332f4e250ee5950962dda25968"
       ]
+    },
+    {
+      "problem_id": "703668",
+      "title": "Max Prefix Sum For Range",
+      "slug": "maximum-prefix-sum-for-a-given-range0227",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:43:17",
+      "official_url": "https://www.geeksforgeeks.org/problems/maximum-prefix-sum-for-a-given-range0227/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/maximum-prefix-sum-for-a-given-range0227/Solution.java"
+      ],
+      "solution_sha256": [
+        "904e36921b87fdf8fd1e30fe30d052a9bb4dac8e6aacc4608ba8c478a20bbe14"
+      ]
+    },
+    {
+      "problem_id": "701689",
+      "title": "Range Sum Queries with Update",
+      "slug": "range-sum-queries2353",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:42:06",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-sum-queries2353/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-sum-queries2353/Solution.java"
+      ],
+      "solution_sha256": [
+        "1d9ec7109d97687ddc719d7d692e929f1acfb5b927e6dea04fc28b04575067f5"
+      ]
+    },
+    {
+      "problem_id": "701697",
+      "title": "Range Min Max Queries",
+      "slug": "range-min-max-queries4557",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:41:03",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-min-max-queries4557/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-min-max-queries4557/Solution.java"
+      ],
+      "solution_sha256": [
+        "28bdde9f160f64da3988a18e78d2e73f4ea04e0d1d833ed06b62be2b68a29681"
+      ]
+    },
+    {
+      "problem_id": "700229",
+      "title": "Range Minimum Query",
+      "slug": "range-minimum-query",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:39:29",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-minimum-query/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-minimum-query/Solution.java"
+      ],
+      "solution_sha256": [
+        "265df03dda71de738f5e781366f799e9204a2e8f18be43801a56f604b1165490"
+      ]
+    },
+    {
+      "problem_id": "701713",
+      "title": "Range LCM Queries",
+      "slug": "range-lcm-queries3348",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:37:49",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-lcm-queries3348/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-lcm-queries3348/Solution.java"
+      ],
+      "solution_sha256": [
+        "c7a8e217b6f4d057ed06b3f51411aceb3fd6aacbff9e4d95a1e2ffca69b69b64"
+      ]
+    },
+    {
+      "problem_id": "714277",
+      "title": "Kth Largest and Update Queries on Substrings",
+      "slug": "easy-task--170647",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:36:37",
+      "official_url": "https://www.geeksforgeeks.org/problems/easy-task--170647/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/easy-task--170647/Solution.java"
+      ],
+      "solution_sha256": [
+        "23741b442856cb7cca07041b27970c4b7d1eded39f989772f603f4df765c4a8c"
+      ]
+    },
+    {
+      "problem_id": "701700",
+      "title": "Longest Correct Bracket Subsequence",
+      "slug": "range-queries-for-longest-correct-bracket-subsequence4719",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:33:41",
+      "official_url": "https://www.geeksforgeeks.org/problems/range-queries-for-longest-correct-bracket-subsequence4719/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/range-queries-for-longest-correct-bracket-subsequence4719/Solution.java"
+      ],
+      "solution_sha256": [
+        "532ad4c7663ae1011c065c6f5cc1a0c817447f7b13355258e7af395fc5d81467"
+      ]
     }
   ],
-  "last_updated": "2026-11-26 11:01:55"
+  "last_updated": "2026-11-26 13:43:17"
 }
