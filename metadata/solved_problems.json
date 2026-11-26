@@ -1,5 +1,5 @@
 {
-  "total_count": 699,
+  "total_count": 705,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -9804,7 +9804,109 @@
       "solution_sha256": [
         "532ad4c7663ae1011c065c6f5cc1a0c817447f7b13355258e7af395fc5d81467"
       ]
+    },
+    {
+      "problem_id": "702846",
+      "title": "Marks from Ranks",
+      "slug": "find-marks-from-ranks",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 14:04:35",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-marks-from-ranks/Solution.java"
+      ],
+      "solution_sha256": [
+        "6a30baeb4a055537fcd5d442b3672a9de9cd8d96aa08a32edcdf3a026b10d25f"
+      ]
+    },
+    {
+      "problem_id": "706309",
+      "title": "Largest Odd Squares  with Limited 1s",
+      "slug": "largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 14:03:28",
+      "official_url": "https://www.geeksforgeeks.org/problems/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/Solution.java"
+      ],
+      "solution_sha256": [
+        "3a9d71cc3be2a07af719d741c4a1fec70058fb32c06a32f1bb2038afab945312"
+      ]
+    },
+    {
+      "problem_id": "702809",
+      "title": "Smallest Diff Triplet in Three Arrays",
+      "slug": "happiest-triplet2921",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 14:02:12",
+      "official_url": "https://www.geeksforgeeks.org/problems/happiest-triplet2921/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/happiest-triplet2921/Solution.java"
+      ],
+      "solution_sha256": [
+        "bd4e36ea5b1163350ec9cdf3c2ad9c7b98edb22903cd18b4558c178473276441"
+      ]
+    },
+    {
+      "problem_id": "701245",
+      "title": "Closer to sort",
+      "slug": "closer-to-sort-1587115620",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 14:01:04",
+      "official_url": "https://www.geeksforgeeks.org/problems/closer-to-sort-1587115620/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/closer-to-sort-1587115620/Solution.java"
+      ],
+      "solution_sha256": [
+        "db6f0e98b7b4359f1d33cdc06218249d4e6bb2879539f9a52090038fb4a86422"
+      ]
+    },
+    {
+      "problem_id": "701722",
+      "title": "Sort According to Another Array",
+      "slug": "relative-sorting4323",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:59:59",
+      "official_url": "https://www.geeksforgeeks.org/problems/relative-sorting4323/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/relative-sorting4323/Solution.java"
+      ],
+      "solution_sha256": [
+        "6ad79ce89cb64c627df2f427aa7467395e6ee977b30806a7a75b1e1b89130ce1"
+      ]
+    },
+    {
+      "problem_id": "703333",
+      "title": "Missing in AP",
+      "slug": "missing-element-of-ap2228",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-26 13:58:48",
+      "official_url": "https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/missing-element-of-ap2228/Solution.java"
+      ],
+      "solution_sha256": [
+        "58ceb291ff1c9fa2260422aa4add5dca236edafeafc63ff391ca89b2c7e7078d"
+      ]
     }
   ],
-  "last_updated": "2026-11-26 13:43:17"
+  "last_updated": "2026-11-26 14:04:35"
 }
