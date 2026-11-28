@@ -1,5 +1,5 @@
 {
-  "total_count": 720,
+  "total_count": 736,
   "user_handle": "yashwasankar008",
   "archive_repository": "https://github.com/Yash08official/GFG-Historical-Solutions",
   "export_timestamp": "2026-11-05T15:52:00+05:30",
@@ -10161,7 +10161,279 @@
       "solution_sha256": [
         "e9a8c8950b5a116240a199a8f4b23e24b0e49bc1d0386e87f0b195482047683c"
       ]
+    },
+    {
+      "problem_id": "876601",
+      "title": "Search Patterns with Dot in Dictionary",
+      "slug": "design-add-and-search-words-data-structure--154618",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:09:36",
+      "official_url": "https://www.geeksforgeeks.org/problems/design-add-and-search-words-data-structure--154618/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/design-add-and-search-words-data-structure--154618/Solution.java"
+      ],
+      "solution_sha256": [
+        "86fc2fab7b31a446b6442718311d6d2c0b20f722f87d1dc59127b904ed521042"
+      ]
+    },
+    {
+      "problem_id": "876295",
+      "title": "Count Words in Trie",
+      "slug": "count-words-in-a-trie",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:08:29",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-words-in-a-trie/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-words-in-a-trie/Solution.java"
+      ],
+      "solution_sha256": [
+        "565530db247f76798db952955c2cdd3feb12ca120f8381ef44f8d20b5b21f3e7"
+      ]
+    },
+    {
+      "problem_id": "706237",
+      "title": "Minimum XOR Value Pair",
+      "slug": "minimum-xor-value-pair",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:07:23",
+      "official_url": "https://www.geeksforgeeks.org/problems/minimum-xor-value-pair/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/minimum-xor-value-pair/Solution.java"
+      ],
+      "solution_sha256": [
+        "5c5c26ad3d8416dd2444015a905555d0686c03e59ee2777bcee1e3a1942f8701"
+      ]
+    },
+    {
+      "problem_id": "916604",
+      "title": "XOR Pairs less than K",
+      "slug": "count-pairs-having-bitwise-xor-less-than-k",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:06:14",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-pairs-having-bitwise-xor-less-than-k/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-pairs-having-bitwise-xor-less-than-k/Solution.java"
+      ],
+      "solution_sha256": [
+        "cdc7a2504442fc1254fbc0d017e32ab1559e1da17bbe6a62d4b2776e04410b03"
+      ]
+    },
+    {
+      "problem_id": "701771",
+      "title": "Assign Short Codes in Stream of Words",
+      "slug": "renaming-cities28581833",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:05:03",
+      "official_url": "https://www.geeksforgeeks.org/problems/renaming-cities28581833/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/renaming-cities28581833/Solution.java"
+      ],
+      "solution_sha256": [
+        "3a54de6eed88245bf093e83d4ea6973c71ce8a578bfef0003fc3fa48c5ee3266"
+      ]
+    },
+    {
+      "problem_id": "700449",
+      "title": "Trie Delete",
+      "slug": "trie-delete",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:02:04",
+      "official_url": "https://www.geeksforgeeks.org/problems/trie-delete/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/trie-delete/Solution.java"
+      ],
+      "solution_sha256": [
+        "8b648f0c8eaab6ca41b4311c8d311a068466add89a51a867f661b0db8e3ac5c8"
+      ]
+    },
+    {
+      "problem_id": "893334",
+      "title": "Longest Valid Word with All Prefixes",
+      "slug": "longest-valid-word-with-all-prefixes",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 11:01:01",
+      "official_url": "https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/longest-valid-word-with-all-prefixes/Solution.java"
+      ],
+      "solution_sha256": [
+        "1d1d280d6a52d6275b14591a0c22985b0fa92e5754f00359e25b682aae918734"
+      ]
+    },
+    {
+      "problem_id": "705485",
+      "title": "Count Strings with Given Prefix",
+      "slug": "count-strings-with-given-prefix",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:59:44",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-strings-with-given-prefix/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-strings-with-given-prefix/Solution.java"
+      ],
+      "solution_sha256": [
+        "c6ccf580191e898be13b5569dc67054ce2beb962fd5a45a438bb93271f517689"
+      ]
+    },
+    {
+      "problem_id": "714218",
+      "title": "Prefix Suffix Strings",
+      "slug": "prefix-suffix-string--170647",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:58:45",
+      "official_url": "https://www.geeksforgeeks.org/problems/prefix-suffix-string--170647/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/prefix-suffix-string--170647/Solution.java"
+      ],
+      "solution_sha256": [
+        "a55faa900689cb3e6d28bc458534df159d2fd1539773f666efa3c31d3548ac2b"
+      ]
+    },
+    {
+      "problem_id": "706337",
+      "title": "Duplicate Rows in Binary Matrix",
+      "slug": "find-duplicate-rows-in-a-binary-matrix",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:57:33",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-duplicate-rows-in-a-binary-matrix/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-duplicate-rows-in-a-binary-matrix/Solution.java"
+      ],
+      "solution_sha256": [
+        "f4a71bb860f4cb73472ac99aeb8a2cce91be9d07f26852bc7b033d3fb99105b7"
+      ]
+    },
+    {
+      "problem_id": "706301",
+      "title": "K Length Prefix Matches",
+      "slug": "prefix-match-with-other-strings",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:56:27",
+      "official_url": "https://www.geeksforgeeks.org/problems/prefix-match-with-other-strings/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/prefix-match-with-other-strings/Solution.java"
+      ],
+      "solution_sha256": [
+        "c56dfdb6547467adfb043de14983f8f5939ab7405ddb28684956c9c3cccbcd14"
+      ]
+    },
+    {
+      "problem_id": "713369",
+      "title": "Longest Word with All Prefixes Present",
+      "slug": "find-the-longest-string--170645",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:55:06",
+      "official_url": "https://www.geeksforgeeks.org/problems/find-the-longest-string--170645/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/find-the-longest-string--170645/Solution.java"
+      ],
+      "solution_sha256": [
+        "024e1821a1aae64d285e0fdae326cd1e4e861b0407eb7ff2ef973bf85cf9866d"
+      ]
+    },
+    {
+      "problem_id": "700389",
+      "title": "Count Distinct Substrings",
+      "slug": "count-of-distinct-substrings",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:53:38",
+      "official_url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/count-of-distinct-substrings/Solution.java"
+      ],
+      "solution_sha256": [
+        "c1481bc2c6a6e5c35d50af1e96c951bb94656fed3b94a5fbd3748e1d75a3c42c"
+      ]
+    },
+    {
+      "problem_id": "701748",
+      "title": "Implement Trie",
+      "slug": "trie-insert-and-search0651",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:51:37",
+      "official_url": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/trie-insert-and-search0651/Solution.java"
+      ],
+      "solution_sha256": [
+        "1a80144a82bbfc8b4b55509b28067b85b386e43c157f52d5e7f7c041fb1d44b3"
+      ]
+    },
+    {
+      "problem_id": "702105",
+      "title": "Word Boggle",
+      "slug": "word-boggle4143",
+      "difficulty": "Medium",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:50:19",
+      "official_url": "https://www.geeksforgeeks.org/problems/word-boggle4143/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Medium/word-boggle4143/Solution.java"
+      ],
+      "solution_sha256": [
+        "1037def252be6657ac701f501b143bd9d831760fe9cad95d3dfcae1358f2bba0"
+      ]
+    },
+    {
+      "problem_id": "913763",
+      "title": "Path Exists Between Two Vertices",
+      "slug": "path-exists",
+      "difficulty": "Easy",
+      "language": "java",
+      "submission_timestamp": "2026-11-28 10:41:21",
+      "official_url": "https://www.geeksforgeeks.org/problems/path-exists/1",
+      "topic_tags": "",
+      "code_status": "Available (Live GFG Accepted Submission)",
+      "solution_files": [
+        "Easy/path-exists/Solution.java"
+      ],
+      "solution_sha256": [
+        "237a5a34cbcadca2ba76b071b918d9c0d3e161c0b530e0eed8df3a03e8e1063a"
+      ]
     }
   ],
-  "last_updated": "2026-11-27 00:31:26"
+  "last_updated": "2026-11-28 11:09:36"
 }
